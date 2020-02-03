@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a master's student specializing in Natural Language Processing, Text Mining, and Machine Learning. I am studying at the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. I completed coursework concerning "Text and Multimedia Mining", "Introduction to Natural Language Processing", "Example-Based Models of Language" and "Machine Learning".
+Hello! I am a master's student specializing in Natural Language Processing, Text Mining, and Machine Learning. I am studying at the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. 
+
+I completed coursework concerning "Text and Multimedia Mining", "Introduction to Natural Language Processing", "Example-Based Models of Language" and "Machine Learning".
 
 During my master's programme, I was founder and editor-in-chief of Radboud's student linguistics journal RU:ts, an open-access journal where students are authors, reviewers, and the editorial board.
 
