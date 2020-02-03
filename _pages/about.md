@@ -14,7 +14,7 @@ I completed coursework concerning "Text and Multimedia Mining", "Introduction to
 
 During my master's programme, I was founder and editor-in-chief of Radboud's student linguistics journal RU:ts, an open-access journal where students are authors, reviewers, and the editorial board.
 
-I also completed a research internship at the Meertens Institute in Amsterdam, concerning text classification with cultural texts (specifically: urban legends). This internship led to a conference presentation at DHBenelux 2019 in september 2019, a popular science article in Dutch in the online journal Vertelcultuur, a demo, and a poster presentation at CLIN30 in january 2020.
+I also completed a research internship at the Meertens Institute in Amsterdam, concerning text classification with cultural texts (specifically: urban legends). This internship led to a conference presentation at DHBenelux 2019 in september 2019, a popular science article in Dutch in the online journal Vertelcultuur, an interactive demo, and a poster presentation at CLIN30 in january 2020.
 
 I also work as a Teaching Assistant at Radboud, teaching the seminars for the bachelor course "Information Science". My work as TA consisting of lecturing on specific topics and assisting students in practical sessions, assisting main teachers with course and syllabus design, and designing and grading assignments on intelligent information tools such as spell checking and information retrieval.
 
