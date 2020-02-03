@@ -9,15 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
+CV SUMMARY
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in English Language and Culture, specialization Linguistics, Radboud University (2014-2017)
+* research MA in Linguistics and Communication Sciences, Radboud University, 2017-current
+* MSc. in Cognitive Science & Artificial Intelligence, Tilburg University, 2018-current
 
 Work experience
 ======
-* Summer 2015: Research Assistant
+* 2018-current: Teaching Assistant
   * Github University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
@@ -29,12 +31,9 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python
+* Academic Writing
+* Natural Language Processing
 
 Publications
 ======
@@ -56,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Founder and editor-in-chief of RU:ts, student linguistics journal
