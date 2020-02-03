@@ -19,21 +19,29 @@ Education
 
 Work experience
 ======
-* 2018-current: Teaching Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018-current: Teaching Assistant (TA) Information Science
+  * Radboud University
+  * Duties included: Lecturing, preparing exercises, assisting in design of syllabus and course.
+  * Supervisor: Prof. dr. Martha Larson, dr. Hans van Halteren
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Dec 2019 - current: Graduation project, medical NLP
+  * Topicus Healthcare, Deventer
+  
+* Jan 2019 - Sep 2019: Research Internship
+  * Research project on automatic classification of Dutch urban legends
+  * Meertens Institute, Amsterdam
+  * Supervisor: prof. dr. Antal van den Bosch & prof. dr. Theo Meder
+  
+* Sep 2015 - Sep 2018: Tutor Linguistics
+  * Teaching other students on especially Syntax I and Syntax II
   
 Skills
 ======
 * Python
 * Academic Writing
 * Natural Language Processing
+* Public Speaking
+* Teaching
 
 Publications
 ======
