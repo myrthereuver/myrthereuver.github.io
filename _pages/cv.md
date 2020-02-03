@@ -9,6 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
+Full CV: [link to document here](files/Myrthe_CV.pdf)
+======
+
 Education
 ======
 * B.A. in English Language and Culture, specialization Linguistics, Radboud University (2014-2017)
