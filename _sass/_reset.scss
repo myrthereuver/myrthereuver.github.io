@@ -1,4 +1,4 @@
-/* ==========================================================================
+//* ==========================================================================
    STYLE RESETS
    ========================================================================== */
 
@@ -8,10 +8,10 @@ html {
   /* apply a natural box layout model to all elements */
   box-sizing: border-box;
   background-color: $background-color;
-  font-size: 12px;
+  font-size: 16px;
 
   @include breakpoint($medium) {
-    font-size: 14px;
+    font-size: 18px;
   }
 
   -webkit-text-size-adjust: 100%;
@@ -177,3 +177,4 @@ textarea {
   overflow: auto; /* remove vertical scrollbar in IE6-9*/
   vertical-align: top; /* readability and alignment cross-browser*/
 }
+
