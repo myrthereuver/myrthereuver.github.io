@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Myrthe Reuver - Personal website"
 title_separator          : "-"
-name                     : &name "Myrthe Reuver"
-description              : &description "Graduate Student in Computational Linguistics & Text Mining"
+name                     : &name 
+description              : &description 
 url                      : https://myrthereuver.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "myrthereuver/myrthereuver.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @rehtrym
+  username               : &twitter 
 facebook:
   username               :
   app_id                 :
