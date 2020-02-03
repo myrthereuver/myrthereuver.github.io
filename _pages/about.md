@@ -8,3 +8,18 @@ redirect_from:
   - /about.html
 ---
 
+Introduction
+======
+Hello! I am a master's student specializing in Natural Language Processing, Text Mining, and Machine Learning. I am studying at the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg.
+
+During my master's programme, I was founder and editor-in-chief of Radboud's student linguistics journal RU:ts, a journal where students are authors, reviewers, and the editorial board.
+
+I also completed a research internship at the Meertens Institute in Amsterdam, concerning text classification with cultural texts (specifically: urban legends). This internship led to a conference presentation at DHBenelux 2019 in september 2019, a popular science article in Dutch in the online journal Vertelcultuur, and a poster presentation at CLIN30 in january 2020.
+
+I also work as a Teaching Assistant at Radboud, teaching the seminars for the bachelor course "Information Science" consisting of lecturing and designing and grading assignments on intelligent information tools such as spell checking and information retrieval.
+
+Currently, I am writing my master's theses (one for each master's programme) at Topicus, a software company in Deventer, concerning medical NLP.
+
+
+
+
