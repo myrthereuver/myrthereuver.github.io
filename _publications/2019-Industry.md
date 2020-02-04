@@ -5,7 +5,7 @@ permalink: /publication/2019-Industry
 excerpt: 
 date: 2019-01-01
 venue: 'KB Lab (Dutch National Library)'
-paperurl: 'https://www.neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/'
+paperurl: 'https://lab.kb.nl/tool/brinkeys-tool'
 ---
 
 ###### ICT with Industry is a full-time research week where researchers in IT work with industry partners on current, practical research questions, in the Lorentz Centre in Leiden. I participated with the team for the KB (Koninklijke Bibliotheek, Dutch National Library). 
