@@ -6,7 +6,9 @@ excerpt:
 date: 2019-10-19
 venue: 'Vertelcultuur Online'
 paperurl: 'https://www.neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/'
+
 ---
+
 ###### Dutch popular science publication on my research internship at the Meertens Institute.
 
 ###### "Broodjeaapverhalen zijn de oorspronkelijke ‘virale verhalen’. Spannende, vaak enge of afschrikwekkende verhalen die zich verspreiden van mond tot mond (of van emailbox tot emailbox)."
