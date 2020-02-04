@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Contact: myrthe.reuver[at]gmail.com
----
 Hello! I am Myrthe Reuver, a master's student specializing in Natural Language Processing, Text Mining, and Machine Learning. I am studying at the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Myrthe_CV.pdf).
 
 During my master's programme, I was founder and editor-in-chief of Radboud's [student linguistics journal RU:ts](http://ruts-journal.ruhosting.nl/), an open-access journal where students are authors, reviewers, and the editorial board.
