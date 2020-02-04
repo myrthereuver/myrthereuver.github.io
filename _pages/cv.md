@@ -41,7 +41,8 @@ Work experience
   
 Skills
 ======
-* Python
+* Python (including scikit-learn)
+* Work with command line tools, unix commands & remote servers
 * Academic Writing
 * Natural Language Processing
 * Public Speaking
