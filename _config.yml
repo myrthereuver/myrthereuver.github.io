@@ -86,7 +86,7 @@ author:
   location         : "the Netherlands"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=HeACvaEAAAAJ&hl=nl&oi=ao"
+  googlescholar    : "citations?user=HeACvaEAAAAJ&hl=nl&oi=ao"
   email            : "myrthe.reuver[at]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/myrthe-reuver-31624083/"
+  linkedin         : "myrthe-reuver-31624083/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
