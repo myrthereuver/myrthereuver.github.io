@@ -44,7 +44,7 @@ Skills
 * Python (including scikit-learn)
 * Work with command line tools, unix commands & remote servers
 * Academic Writing
-* Natural Language Processing
+* Natural Language Processing, Text Mining
 * Public Speaking
 * Teaching
 
