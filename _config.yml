@@ -86,7 +86,7 @@ author:
   location         : "the Netherlands"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=nl&user=HeACvaEAAAAJ"
+  googlescholar    : #"https://scholar.google.com/citations?hl=nl&user=HeACvaEAAAAJ"
   email            : "myrthe.reuver[at]gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
