@@ -16,9 +16,9 @@ Full CV: [link](/Myrthe_CV.pdf)
 Education
 ======
 * B.A. in English Language and Culture, specialization Linguistics, Radboud University (2014-2017)
-  * certificate: BA Honours Programme. 2-year Text Mining Research project
+  * certificate: BA Honours Programme, 2-year Text Mining Research project
 * research MA in Linguistics and Communication Sciences, Radboud University, 2017-current
-  * certificate: MA Honours Programme. 1-year think tank project on "Thinking Machines in Healthcare"
+  * certificate: MA Honours Programme, 1-year think tank project on "Thinking Machines in Healthcare"
 * MSc. in Cognitive Science & Artificial Intelligence, Tilburg University, 2018-current
 
 Work experience
