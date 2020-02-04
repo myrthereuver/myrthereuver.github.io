@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+======
 
 Full CV: [link](/Myrthe_CV.pdf)
 ======
