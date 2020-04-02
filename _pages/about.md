@@ -17,7 +17,7 @@ I also completed a research internship at the Meertens Institute in Amsterdam, c
 
 I work as a Teaching Assistant at Radboud, teaching the seminars for the bachelor course ["Information Science"](https://www.ru.nl/courseguides/arts/courses/ba/ibc/b1/let-ciwb158-ibc/). Other experience includes participation in ICT with Industry 2019, where I worked in a team of researchers on automatic keyword classification of academic texts for the KB (Dutch national library). The project resulted in a [demo](https://lab.kb.nl/tool/brinkeys-tool), and a [white paper](https://www.kb.nl/sites/default/files/docs/kb_whitepaper_exploring_possibilities_automated_generation_of_metadata_eng_online.pdf). I also made an [NWO vlog](https://www.youtube.com/watch?v=-m92LxE5hQ4) about the project.
 
-I hope to continue doing interesting research in the future, where my interests lie in complex but also practically applicable text-mining research! Hopefully, I can find an interesting PhD position were to pursue this - but I am also open to other opportunities that allow me to do dive into interesting phenomena. 
+I hope to continue doing interesting research in the future, where my interests lie in complex but also practically applicable text-mining research! Hopefully, I can find an interesting PhD position where to pursue this - but I am also open to other opportunities that allow me to do dive into interesting phenomena. 
 
 If you have any ideas about what I should do (be it in the form of a PhD or otherwise), contact me! :-) I'm always interested in new ideas or opportunities! 
 
