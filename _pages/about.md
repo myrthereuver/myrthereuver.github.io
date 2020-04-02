@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello world! I am Myrthe Reuver, a master's student specializing in Natural Language Processing, Text Mining, and Machine Learning. I am studying at the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Myrthe_CV.pdf). 
+Hello world! I am Myrthe Reuver, a master's student specializing in Natural Language Processing, Text Mining, and Machine Learning. I am studying at the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Myrthe_CV (1).pdf). 
 
 Currently (from december 2019 until July-August 2020), I am doing two master thesis projects on Natural Language Processing with medical and clinical text at software compay Topicus in Deventer. Want to know more about these projects? Ask me through email or Twitter!
 
