@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello world! I am Myrthe Reuver, a PhD candidate at the [CLTL](http://www.cltl.nl/) (Computational Lexicology & Terminology Lab) at the Free University of Amsterdam (VU). My research is about news recommender systems and specifically: diversity in news recommender systems. I intend to use Natural Language Processing techniques, such as language models, to automatically measure diversity. 
+Hello world! I am Myrthe Reuver, a PhD candidate at the [CLTL](http://www.cltl.nl/) (Computational Lexicology & Terminology Lab) at the Free University of Amsterdam (VU). My research is about news recommender systems and specifically: diversity in news recommender systems. I intend to use Natural Language Processing techniques, such as language models, to automatically measure diversity. I'm supervised by [dr. Antske Fokkens](http://wordpress.let.vupr.nl/antske/) (also connected to CLTL) and [dr. Suzan Verberne](http://liacs.leidenuniv.nl/~verbernes/) (connected to LIACS at Leiden University).
 
 Want to know more about any of my current or past projects? Ask me through email or Twitter!
 
