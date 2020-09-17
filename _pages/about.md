@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello world! I am Myrthe Reuver, a PhD candidate at the [CLTL] (http://www.cltl.nl/) (Computational Lexicology & Terminology Lab) at the Free University of Amsterdam (VU). My research is about news recommender systems and specifically: diversity in news recommender systems. I intend to use Natural Language Processing techniques, such as language models, to automatically measure diversity. 
+Hello world! I am Myrthe Reuver, a PhD candidate at the [CLTL](http://www.cltl.nl/) (Computational Lexicology & Terminology Lab) at the Free University of Amsterdam (VU). My research is about news recommender systems and specifically: diversity in news recommender systems. I intend to use Natural Language Processing techniques, such as language models, to automatically measure diversity. 
 
 Want to know more about any of my current or past projects? Ask me through email or Twitter!
 
 As a master's student I specialized in Natural Language Processing, Text Mining, and Machine Learning. I studied the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Myrthe_CV (1).pdf). 
 
-From december 2019 to September 2020), I wrote two master thesis projects on Natural Language Processing with medical and clinical text at software compay Topicus in Deventer. 
+From December 2019 to September 2020, I wrote two master thesis projects on Natural Language Processing with medical and clinical text at software compay Topicus in Deventer. 
 
 During my master's programme, I was founder and editor-in-chief of Radboud's [student linguistics journal RU:ts](http://ruts-journal.ruhosting.nl/), an open-access journal where students are authors, reviewers, and the editorial board. Our first edition is out on the website and in print, and we have a second edition in the pipeline for 2020!
 
