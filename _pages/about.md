@@ -13,7 +13,7 @@ Want to know more about any of my current or past projects? Ask me through email
 
 As a master's student I specialized in Natural Language Processing, Text Mining, and Machine Learning. I studied the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Myrthe_CV (1).pdf). 
 
-From December 2019 to September 2020, I wrote two master thesis projects on Natural Language Processing with medical and clinical text at software compay Topicus in Deventer. 
+From December 2019 to September 2020, I wrote two master thesis projects on Natural Language Processing with clinical text at software compay Topicus in Deventer. For my MSc degree, I researched how a language model and machine learning approach could be used to improve a keyword-scanning complaint classifier currently used in emergency GP centers. For my ResMA degree, I researched how a weakly supervised paradigm together with a transfer learning approach could be used for smoking status classification of EMRs (Electronic Medical Records).
 
 During my master's programme, I was founder and editor-in-chief of Radboud's [student linguistics journal RU:ts](http://ruts-journal.ruhosting.nl/), an open-access journal where students are authors, reviewers, and the editorial board. Our first edition is out on the website and in print, and we have a second edition in the pipeline for 2020!
 
@@ -21,7 +21,7 @@ I also completed a research internship at the Meertens Institute in Amsterdam, c
 
 I worked as a Teaching Assistant at Radboud, teaching the seminars for the bachelor course ["Information Science"](https://www.ru.nl/courseguides/arts/courses/ba/ibc/b1/let-ciwb158-ibc/). Other experience includes participation in ICT with Industry 2019, where I worked in a team of researchers on automatic keyword classification of academic texts for the KB (Dutch national library). The project resulted in a [demo](https://lab.kb.nl/tool/brinkeys-tool), and a [white paper](https://www.kb.nl/sites/default/files/docs/kb_whitepaper_exploring_possibilities_automated_generation_of_metadata_eng_online.pdf). I also made an [NWO vlog](https://www.youtube.com/watch?v=-m92LxE5hQ4) about the project.
 
-I hope to continue doing interesting research in the future, where my interests lie in complex but also practically applicable text-mining research! Hopefully, I can find an interesting PhD position where to pursue this - but I am also open to other opportunities that allow me to do dive into interesting phenomena. 
+I hope to continue doing interesting research in the future, where my interests lie in complex but also practically applicable NLP and text-mining research! 
 
 I'm always interested in new ideas or opportunities, so please contact me if you have any!
 
