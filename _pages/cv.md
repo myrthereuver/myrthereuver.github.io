@@ -16,28 +16,32 @@ Full CV: [link](/Myrthe_CV.pdf)
 Education
 ======
 * B.A. in English Language and Culture, specialization Linguistics, Radboud University (2014-2017)
-  * certificate: BA Honours Programme, 2-year Text Mining Research project
-* research MA in Linguistics and Communication Sciences, Radboud University, 2017-current
-  * certificate: MA Honours Programme, 1-year think tank project on "Thinking Machines in Healthcare"
-* MSc. in Cognitive Science & Artificial Intelligence, Tilburg University, 2018-current
+  - certificate: BA Honours Programme, 2-year Text Mining Research project
+* research MA in Linguistics and Communication Sciences, Radboud University, 2017-2020
+  - certificate: MA Honours Programme, 1-year think tank project on "Thinking Machines in Healthcare"
+  - Thesis: "Smoking Status Classification with a Weakly Supervised Paradigm in Sparsely Labelled Dutch Free Text in Electronic Medical Records"
+  - Graduating with distinction (GPA: 8/10)
+* MSc. in Cognitive Science & Artificial Intelligence, Tilburg University, 2018-2020
+   - Thesis: "What Kind of Emergency? Providing Complaint Labels for Dutch Short Clinical Texts with Supervised & Explainable Machine Learning"
+   - Graduated with distinction (GPA: 7.9/10)
 
 Work experience
 ======
-* 2018-current: Teaching Assistant (TA) Information Science
-  * Radboud University
-  * Duties included: Lecturing, preparing exercises, assisting in design of syllabus and course.
-  * Supervisor: Prof. dr. Martha Larson, dr. Hans van Halteren
+* 2018-2020: Teaching Assistant (TA) Information Science
+  - Radboud University
+  - Duties included: Lecturing, preparing exercises, assisting in design of syllabus and course.
+  - Supervisor: Prof. dr. Martha Larson, dr. Hans van Halteren
 
-* Dec 2019 - current: Graduation project, medical NLP
-  * Topicus Healthcare, Deventer
+* Dec 2019 - Sept 2020: Graduation projects in medical/clinical NLP
+  - IT company Topicus Healthcare, Deventer
   
 * Jan 2019 - Sep 2019: Research Internship
-  * Research project on automatic classification of Dutch urban legends
-  * Meertens Institute, Amsterdam
-  * Supervisor: prof. dr. Antal van den Bosch & prof. dr. Theo Meder
+  - Research project on automatic classification of Dutch urban legends
+  - Meertens Institute, Amsterdam
+  - Supervisor: prof. dr. Antal van den Bosch & prof. dr. Theo Meder
   
 * Sep 2015 - Sep 2018: Tutor Linguistics
-  * Teaching other students on especially Syntax I and Syntax II
+  - Teaching other students, especially on abstract courses such as Syntax I & II
   
 Skills
 ======
