@@ -25,7 +25,5 @@ I hope to continue doing interesting research in the future, where my interests 
 
 I'm always interested in new ideas or opportunities, so please contact me if you have any!
 
-Email: myrthe[dot]reuver[at]vu.nl
-
 
 
