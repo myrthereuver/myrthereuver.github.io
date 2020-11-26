@@ -29,8 +29,8 @@ Work experience
 ======
 
 * 2020 - current: PhD Candidate "Diversity in News Recommender Systems"
-- Free University Amsterdam (VU)
-- using natural language processing methods (especially language models) to measure diversity in topics and/or viewpoints in the news.
+  - Free University Amsterdam (VU)
+  - using natural language processing methods (especially language models) to measure diversity in topics and/or viewpoints in the news.
 
 * 2018-2020: Teaching Assistant (TA) Information Science
   - Radboud University
