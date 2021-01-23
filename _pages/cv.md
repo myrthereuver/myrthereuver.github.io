@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ======
 
-Full CV: [link](/Reuver_CV_2020_new (1).pdf)
+Full CV: [link](/Reuver_CV_2021.pdf)
 ======
 
 Education
