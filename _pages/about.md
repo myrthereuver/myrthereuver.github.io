@@ -11,7 +11,7 @@ Hello world! I am Myrthe Reuver, a PhD candidate at the [CLTL](http://www.cltl.n
 
 **Want to know more about any of my current or past projects? Ask me through email or Twitter!**
 
-As a master's student I specialized in Natural Language Processing, Text Mining, and Machine Learning. I studied the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Reuver_CV_2020_new (1).pdf). 
+As a master's student I specialized in Natural Language Processing, Text Mining, and Machine Learning. I studied the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Reuver_CV_2021.pdf). 
 
 From December 2019 to September 2020, I wrote two master thesis projects on Natural Language Processing with clinical text at software company Topicus in Deventer. For my MSc degree, I researched how a language model and machine learning approach could be used to improve a keyword-scanning complaint classifier currently used in emergency GP centers. For my ResMA degree, I researched how a weakly supervised paradigm together with a transfer learning approach could be used for smoking status classification of EMRs (Electronic Medical Records).
 
