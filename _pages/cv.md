@@ -19,12 +19,12 @@ Education
   - certificate: MA Honours Programme, 1-year think tank project on "Thinking Machines in Healthcare"
   - Thesis: "Smoking Status Classification with a Weakly Supervised Paradigm in Sparsely Labelled Dutch Free Text in Electronic Medical Records"
   - (GPA: 8/10)
-* MSc. in Cognitive Science & Artificial Intelligence, Tilburg University, 2018-2020
+* MSc in Cognitive Science & Artificial Intelligence, Tilburg University, 2018-2020
    - Thesis: "What Kind of Emergency? Providing Complaint Labels for Dutch Short Clinical Texts with Supervised & Explainable Machine Learning"
    - Graduated with distinction (GPA: 7.9/10)
 * B.A. in English Language and Culture, specialization Linguistics, Radboud University (2014-2017)
   - certificate: BA Honours Programme, 2-year Text Mining Research project
-  - graduated cum laude (GPA: 8.6/10)
+  - Graduated cum laude (GPA: 8.6/10)
 
 Work experience
 ======
@@ -40,6 +40,7 @@ Work experience
 
 * Dec 2019 - Sept 2020: Graduation projects in medical/clinical NLP
   - IT company Topicus Healthcare, Deventer
+  - Company Supervisor: Jeroen Kuijpers
   
 * Jan 2019 - Sep 2019: Research Internship
   - Research project on automatic classification of Dutch urban legends
