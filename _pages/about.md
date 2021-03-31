@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello world! I am Myrthe Reuver, a PhD candidate at the [CLTL](http://www.cltl.nl/) at the Free University of Amsterdam (VU). My research is about news recommender systems and specifically: diversity in news recommender systems. I intend to use Natural Language Processing techniques, such as language models, to automatically measure diversity. I'm supervised by [dr. Antske Fokkens](http://wordpress.let.vupr.nl/antske/) (also connected to CLTL) and [dr. Suzan Verberne](http://liacs.leidenuniv.nl/~verbernes/) (connected to LIACS at Leiden University).
+Hello world! I am Myrthe Reuver, a PhD candidate at [CLTL](http://www.cltl.nl/) at the Free University of Amsterdam (VU). My research is about news recommender systems and specifically: diversity in news recommender systems. I intend to use Natural Language Processing techniques, such as language models, to automatically measure diversity. I'm supervised by [dr. Antske Fokkens](http://wordpress.let.vupr.nl/antske/) (also connected to CLTL) and [dr. Suzan Verberne](http://liacs.leidenuniv.nl/~verbernes/) (connected to LIACS at Leiden University).
 
 As a master's student I specialized in Natural Language Processing, Text Mining, and Machine Learning. I completed the Research Master's programme "Linguistics and Communication Sciences" at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" at Tilburg University in Tilburg. You can download my full CV [here](/Reuver_CV_2020_new_graduated.pdf). 
 
