@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2019-10-19-broodjeaap
 excerpt: 
 date: 2019-10-19
-venue: 'Vertelcultuur Online'
+venue: 'Myrthe Reuver. in: Vertelcultuur Online'
 paperurl: 'https://www.neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/'
 
 ---
