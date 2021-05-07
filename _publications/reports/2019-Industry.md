@@ -1,6 +1,7 @@
 ---
 title: "Brinkeys Tool"
-collection: publications
+collection: publications reports
+categories: publications reports
 permalink: /publication/2019-Industry
 excerpt: 
 date: 2019-01-01

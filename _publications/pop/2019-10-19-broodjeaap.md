@@ -1,6 +1,6 @@
 ---
 title: "Hoe een computer broodjeaapverhalen leert categoriseren."
-collection: publications-pop
+collection: publications pop
 permalink: /publication/2019-10-19-broodjeaap
 excerpt: 
 date: 2019-10-19
