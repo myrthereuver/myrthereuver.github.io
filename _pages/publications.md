@@ -11,7 +11,7 @@ author_profile: true
 
 ## Main Conference Proceedings 
 
-{% for post in site.publications.main reversed %}
+{% for post in site.publications.main_conf reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
