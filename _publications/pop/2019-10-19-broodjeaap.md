@@ -2,9 +2,9 @@
 title: "Hoe een computer broodjeaapverhalen leert categoriseren."
 collection: publications pop
 permalink: /publication/2019-10-19-broodjeaap
-excerpt: 
+excerpt: '<b>Myrthe Reuver</b>. "Hoe een computer broodjeaapverhalen leert categoriseren."
 date: 2019-10-19
-venue: 'Myrthe Reuver. in: Vertelcultuur Online'
+venue: 'Vertelcultuur Online'
 paperurl: 'https://www.neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/'
 
 ---

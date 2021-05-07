@@ -5,7 +5,7 @@ categories: publications reports
 permalink: /publication/2019-Industry
 excerpt: 
 date: 2019-01-01
-venue: 'Brandsen, A., Kleppe, M., Veldhoen, S., Zijdeman, R., Huurman, H., Vos, H. De, Goes, K., Huang, L., Kim, A., Mesbah, S., Reuver, M., Wang, S., Hendrickx, I. (2019). &quot;Brinkeys..&quot; <i>KB Lab:The Hague, the Netherlands</i>.'
+venue: 'Brandsen, A., Kleppe, M., Veldhoen, S., Zijdeman, R., Huurman, H., Vos, H. De, Goes, K., Huang, L., Kim, A., Mesbah, S.,<b>Reuver, M./</b>, Wang, S., Hendrickx, I. (2019). &quot;Brinkeys..&quot; <i>KB Lab:The Hague, the Netherlands</i>.'
 paperurl: 'https://lab.kb.nl/tool/brinkeys-tool'
 ---
 
