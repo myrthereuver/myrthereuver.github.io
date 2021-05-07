@@ -11,31 +11,31 @@ You can also find my articles on [my Google Scholar profile]{https://scholar.goo
 
 Main Conference Proceedings 
 
-{% for post in site.publications.main reversed %}
+{% for post in site.publications-main reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Workshop Papers
 
-{% for post in site.publications.workshops reversed %}
+{% for post in site.publications-workshops reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Reports
 
-{% for post in site.publications.reports reversed %}
+{% for post in site.publications-reports reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Popular Science 
 
-{% for post in site.publications.pop reversed %}
+{% for post in site.publications-pop reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Opinion
 
-{% for post in site.publications.opin reversed %}
+{% for post in site.publications-opin reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
