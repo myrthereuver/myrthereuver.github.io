@@ -9,6 +9,11 @@ author_profile: true
 
 {% include base_path %}
 
+{% for post in site.publications reversed %} 
+	{% include archive-single.html %} 
+{% endfor %}
+
+
 ## Main Conference Proceedings 
 
 {% for post in site.main_conf reversed %}
