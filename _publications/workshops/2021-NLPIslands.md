@@ -2,7 +2,7 @@
 title: "No NLP Task Should be an Island: Multi-disciplinarity for Diversity in News Recommender Systems"
 collection: publications workshops
 permalink: /Publications/2021-NLPislands
-venue:  Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online).
+venue:  Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL online)
 date: 2021-05-01
 paperurl: 'https://www.aclweb.org/anthology/2021.hackashop-1.7.pdf'
 ---
