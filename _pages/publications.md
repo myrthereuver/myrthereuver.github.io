@@ -11,13 +11,13 @@ author_profile: true
 
 ## Main Conference Proceedings 
 
-{% for post in site.collection.main_conf reversed %}
+{% for post in site.publications.main_conf reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 ## Workshop Papers
 
-{% for post in site.collection.workshops reversed %}
+{% for post in site.publications.workshops reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
@@ -35,7 +35,7 @@ author_profile: true
 
 ## Opinion
 
-{% for post in site.categories.opin reversed %}
+{% for post in site.publications.opin reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
