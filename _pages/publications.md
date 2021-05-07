@@ -36,6 +36,7 @@ author_profile: true
 ## Opinion
 
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% if post.path contains 'opin' %}
+  	{% include archive-single.html %}
 {% endfor %}
 
