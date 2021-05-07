@@ -27,14 +27,13 @@ Reports
   {% include archive-single.html %}
 {% endfor %}
 
-
 Popular Science 
 
 {% for post in site.publications.pop reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Opinion Pieces 
+Opinion
 
 {% for post in site.publications.opin reversed %}
   {% include archive-single.html %}
