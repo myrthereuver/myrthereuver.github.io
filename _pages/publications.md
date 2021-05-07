@@ -39,4 +39,3 @@ Opinion
   {% include archive-single.html %}
 {% endfor %}
 
-
