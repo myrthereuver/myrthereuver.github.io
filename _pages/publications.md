@@ -9,31 +9,31 @@ author_profile: true
 
 {% include base_path %}
 
-Main Conference Proceedings 
+#Main Conference Proceedings 
 
 {% for post in site.publications-main reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Workshop Papers
+#Workshop Papers
 
 {% for post in site.publications-workshops reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Reports
+#Reports
 
 {% for post in site.publications-reports reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Popular Science 
+#Popular Science 
 
 {% for post in site.publications-pop reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-Opinion
+#Opinion
 
 {% for post in site.publications-opin reversed %}
   {% include archive-single.html %}
