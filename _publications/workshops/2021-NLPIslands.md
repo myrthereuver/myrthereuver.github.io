@@ -2,8 +2,8 @@
 title: "No NLP Task Should be an Island: Multi-disciplinarity for Diversity in News Recommender Systems"
 collection: publications workshops
 permalink: /ublications/2021-NLPislands
-excerpt: 'Myrthe Reuver, Antske Fokkens, Suzan Verberne. In: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 45–55 '
-authors: Myrthe Reuver, Antske Fokkens, & Suzan Verberne
+excerpt: 'Myrthe Reuver, Antske Fokkens, Suzan Verberne. "No NLP Task Should be an Island: Multi-disciplinarity for Diversity in News Recommender Systems"
+venue: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 45–55 '
 date: 2021-05-01
 paperurl: 'https://www.aclweb.org/anthology/2021.hackashop-1.7.pdf'
 ---
