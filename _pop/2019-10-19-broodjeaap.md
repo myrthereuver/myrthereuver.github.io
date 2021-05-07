@@ -1,7 +1,7 @@
 ---
 title: "Hoe een computer broodjeaapverhalen leert categoriseren."
-collection: publications pop
-permalink: /publication/2019-10-19-broodjeaap
+collection: pop
+permalink: /pop/2019-10-19-broodjeaap
 excerpt: 
 date: 2019-10-19
 venue: 'Myrthe Reuver. in: Vertelcultuur Online'
