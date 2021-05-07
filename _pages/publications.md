@@ -11,13 +11,13 @@ author_profile: true
 
 ## Main Conference Proceedings 
 
-{% for post in site.categories.main_conf reversed %}
+{% for post in site.collection.main_conf reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 ## Workshop Papers
 
-{% for post in site.categories.workshops reversed %}
+{% for post in site.collection.workshops reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
