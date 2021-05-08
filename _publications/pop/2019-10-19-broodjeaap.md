@@ -7,7 +7,7 @@ venue: 'Vertelcultuur Online'
 paperurl: 'https://www.neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/'
 
 ---
-##### <b>Myrthe Reuver</b>. (2019) "Hoe een computer broodjeaapverhalen leert categoriseren." Vertelcultuur Online.
+##### Myrthe Reuver. (2019) "Hoe een computer broodjeaapverhalen leert categoriseren." Vertelcultuur Online.
 
 ##### Dutch popular science publication on my research internship at the Meertens Institute.
 
