@@ -23,13 +23,15 @@ author_profile: true
 <sub>**Myrthe Reuver**, Nicolas Mattis. (2021). “Implementing Evaluation Metrics Based on Theories of Democracy in News Comment Recommendation (Hackathon Report)” In: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 134–139.
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.19.pdf) |
 [poster]() |
-[code/demo](https://github.com/myrthereuver/Hackathon_MediaComments/blob/main/Hackathon_comments_script.ipynb)
+[code/demo](https://github.com/myrthereuver/Hackathon_MediaComments/blob/main/Hackathon_comments_script.ipynb)</sub>
 
-Anthony Burton, Elena Aversa, Alessandra Facchin, Ivana Emily Škoro, Henri Mütschele, Shenglang Qing, **Myrthe Reuver**. (2019). "Streams of the Deep Web: Rebel Media, YouTube, and the algorithmic shaping of media ecosystems." Digital Methods Wiki, UvA Summerschool.
+
+<sub>Anthony Burton, Elena Aversa, Alessandra Facchin, Ivana Emily Škoro, Henri Mütschele, Shenglang Qing, **Myrthe Reuver**. (2019). "Streams of the Deep Web: Rebel Media, YouTube, and the algorithmic shaping of media ecosystems." Digital Methods Wiki, UvA Summerschool.
 [paper](https://wiki.digitalmethods.net/Dmi/SummerSchool2019StreamsoftheDeepWeb) |
-[code/demo](https://anthbrtn.com/streamsDeepWeb/ctopics/index.html)
+[code/demo](https://anthbrtn.com/streamsDeepWeb/ctopics/index.html)</sub>
 
-Brandsen, A., Kleppe, M., Veldhoen, S., Zijdeman, R., Huurman, H., Vos, H. De, Goes, K., Huang, L., Kim, A., Mesbah, S., **Reuver, M.**, Wang, S., Hendrickx, I. (2019). "Brinkeys.." KB Lab:The Hague, the Netherlands.
+
+<sub>Brandsen, A., Kleppe, M., Veldhoen, S., Zijdeman, R., Huurman, H., Vos, H. De, Goes, K., Huang, L., Kim, A., Mesbah, S., **Reuver, M.**, Wang, S., Hendrickx, I. (2019). "Brinkeys.." KB Lab:The Hague, the Netherlands.
 [paper](http://www.kbresearch.nl/brinkeys/report.pdf) |
 [code/demo](http://kbresearch.nl/brinkeys/)</sub>
 
@@ -41,9 +43,10 @@ Brandsen, A., Kleppe, M., Veldhoen, S., Zijdeman, R., Huurman, H., Vos, H. De, G
 ## Master Theses 
 
 <sub>**Myrthe Reuver**. (2020). FINDING THE SMOKE SIGNAL: Smoking Status Classification with a Weakly Supervised Paradigm in Sparsely Labelled Dutch Free Text in Electronic Medical Records. Research Master's Thesis in Linguistics & Communication Sciences. Radboud University Nijmegen.
-[text](https://theses.ubn.ru.nl/bitstream/handle/123456789/10278/Reuver%2C_M.E._1.pdf?sequence=1)
+[text](https://theses.ubn.ru.nl/bitstream/handle/123456789/10278/Reuver%2C_M.E._1.pdf?sequence=1)</sub>
 
-**Myrthe Reuver**. (2020). What Kind of Emergency?
+
+<sub>**Myrthe Reuver**. (2020). What Kind of Emergency?
 Providing Complaint Labels for Dutch Short Clinical Texts with Supervised & Explainable Machine Learning. Master of Science in Cognitive Science & Artificial Intelligence. Tilburtg University. [text](https://www.researchgate.net/profile/Myrthe-Reuver-2/publication/349916107_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical_Texts_with_Supervised_Explainable_Machine_Learning_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical/links/60473581a6fdcc9c7821a978/What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinical-Texts-with-Supervised-Explainable-Machine-Learning-What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinic.pdf)</sub>
 
 ## Popular Science 
