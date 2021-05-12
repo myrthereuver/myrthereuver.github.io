@@ -35,7 +35,7 @@ author_profile: true
 [paper](http://www.kbresearch.nl/brinkeys/report.pdf) |
 [code/demo](http://kbresearch.nl/brinkeys/)</sub>
 
-## Extended Abstracts.
+## Extended Abstracts
 
 <sub>**Myrthe Reuver**. (2019).  Amputation or Accident? Classifying Dutch Urban Legends into Story Types with a Hierarchical Classifier. Abstract from DHBenelux Conference 2019, Liege, Belgium.
 [abstract](https://myrthereuver.github.io/talks/DH_Benelux_2019_paper_69.pdf)</sub>
