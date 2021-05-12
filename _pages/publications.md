@@ -16,13 +16,13 @@ author_profile: true
 
 <sub>**Myrthe Reuver**, Antske Fokkens, Suzan Verberne. (2021). “No NLP Task Should be an Island: Multi-disciplinarity for Diversity in News Recommender Systems’ In: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 45–55.
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.7.pdf) |
-[poster]()</sub>
+[poster](_talks/Reuver_NoTaskIsland (3).pdf)</sub>
 
 ## Reports (not peer reviewed)
 
 <sub>**Myrthe Reuver**, Nicolas Mattis. (2021). “Implementing Evaluation Metrics Based on Theories of Democracy in News Comment Recommendation (Hackathon Report)” In: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 134–139.
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.19.pdf) |
-[poster]() |
+[poster](_talks/MattisReuver_HackathonReport (6).pdf) |
 [code/demo](https://github.com/myrthereuver/Hackathon_MediaComments/blob/main/Hackathon_comments_script.ipynb)</sub>
 
 
