@@ -43,11 +43,11 @@ author_profile: true
 ## Master Theses 
 
 <sub>**Myrthe Reuver**. (2020). FINDING THE SMOKE SIGNAL: Smoking Status Classification with a Weakly Supervised Paradigm in Sparsely Labelled Dutch Free Text in Electronic Medical Records. Research Master's Thesis in Linguistics & Communication Sciences. Radboud University Nijmegen.
-[text](https://theses.ubn.ru.nl/bitstream/handle/123456789/10278/Reuver%2C_M.E._1.pdf?sequence=1)|[defense slides](https://myrthereuver.github.io/talks/TEXTMINING_SMOKING.pptx (1).pdf) </sub>
+[text](https://theses.ubn.ru.nl/bitstream/handle/123456789/10278/Reuver%2C_M.E._1.pdf?sequence=1)|[defense slides](https://myrthereuver.github.io/talks/ReMa_defense.pdf) </sub>
 
 
 <sub>**Myrthe Reuver**. (2020). What Kind of Emergency?
-Providing Complaint Labels for Dutch Short Clinical Texts with Supervised & Explainable Machine Learning. Master of Science in Cognitive Science & Artificial Intelligence. Tilburtg University. [text](https://www.researchgate.net/profile/Myrthe-Reuver-2/publication/349916107_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical_Texts_with_Supervised_Explainable_Machine_Learning_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical/links/60473581a6fdcc9c7821a978/What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinical-Texts-with-Supervised-Explainable-Machine-Learning-What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinic.pdf) | [defense slides](](https://myrthereuver.github.io/talks/TilburgTriage_LSTmeeting.pptx.pdf)</sub>
+Providing Complaint Labels for Dutch Short Clinical Texts with Supervised & Explainable Machine Learning. Master of Science in Cognitive Science & Artificial Intelligence. Tilburtg University. [text](https://www.researchgate.net/profile/Myrthe-Reuver-2/publication/349916107_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical_Texts_with_Supervised_Explainable_Machine_Learning_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical/links/60473581a6fdcc9c7821a978/What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinical-Texts-with-Supervised-Explainable-Machine-Learning-What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinic.pdf) | [defense slides](https://myrthereuver.github.io/talks/TilburgTriage_LSTmeeting.pptx.pdf)</sub>
 
 ## Popular Science 
 
