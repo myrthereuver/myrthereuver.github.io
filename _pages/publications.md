@@ -43,7 +43,7 @@ author_profile: true
 ## Master Theses 
 
 <sub>**Myrthe Reuver**. (2020). FINDING THE SMOKE SIGNAL: Smoking Status Classification with a Weakly Supervised Paradigm in Sparsely Labelled Dutch Free Text in Electronic Medical Records. Research Master's Thesis in Linguistics & Communication Sciences. Radboud University Nijmegen.
-[text](https://theses.ubn.ru.nl/bitstream/handle/123456789/10278/Reuver%2C_M.E._1.pdf?sequence=1)|[defense slides](https://myrthereuver.github.io/talks/ReMa_defense.pdf) </sub>
+[text](https://theses.ubn.ru.nl/bitstream/handle/123456789/10278/Reuver%2C_M.E._1.pdf?sequence=1) | [defense slides](https://myrthereuver.github.io/talks/ReMa_defense.pdf) </sub>
 
 
 <sub>**Myrthe Reuver**. (2020). What Kind of Emergency?
