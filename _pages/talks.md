@@ -8,7 +8,7 @@ author_profile: true
 ## Invited Talks
 
 <sub>Myrthe Reuver. 7 April 2021. "Hackathons, Shared Tasks, and Papers: Collaboration and Interdisciplinarity with Data on Complex Problems". Free University of Amsterdam, University Library Data Conversations (Online). 
-[video](https://www.youtube.com/watch?v=45v9ieLE7a8&t=1s&ab_channel=UniversiteitsbibliotheekVrijeUniversiteit)</sub>
+[video](https://www.youtube.com/watch?v=45v9ieLE7a8&t=1s&ab_channel=UniversiteitsbibliotheekVrijeUniversiteit) | [slides](https://myrthereuver.github.io/talks/2.Reuver_Data_Conversations.pdf)</sub> 
 
 ## Conference Talks
 
