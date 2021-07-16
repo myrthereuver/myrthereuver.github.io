@@ -12,15 +12,20 @@ author_profile: true
 
 ## Conference Talks (without paper)
 
-<sub>Myrthe Reuver. 24 October 2019. "Making the Computer Understand Urban Legend Types (And Making Humans Understand the Computer)" Moving Humanities Graduate Conference, Radboud University Nijmegen (Netherlands). [slides](https://myrthereuver.github.io/talks/Reuver_MovingHumanities.pdf)</sub>
+<sub>Myrthe Reuver, Iris Hendrickx, Jeroen Kuijpers. 9 July 2021. "Smoking Status Detection with a Pre-Trained Transformer and Weak Supervision in Dutch Electronic Patient Files." Computational Linguistics in the Netherlandsa (CLIN) 31 (Online). [slides](https://myrthereuver.github.io/talks/REUVER_Paper33CLIN_SMOKING.pdf)</sub>
 
-<sub>Myrthe Reuver. 13 September 2019. "Amputation or Accident? Classifying Dutch Urban Legends into Story Types with a Hierarchical Classifier". Digtal Humanities Benelux 2019, University of Liege (Belgium). [abstract](https://myrthereuver.github.io/talks/DH_Benelux_2019_paper_69.pdf)</sub>
+<sub>Myrthe Reuver. 24 October 2019. "Making the Computer Understand Urban Legend Types (And Making Humans Understand the Computer)." Moving Humanities Graduate Conference, Radboud University Nijmegen (Netherlands). [slides](https://myrthereuver.github.io/talks/Reuver_MovingHumanities.pdf)</sub>
+
+<sub>Myrthe Reuver. 13 September 2019. "Amputation or Accident? Classifying Dutch Urban Legends into Story Types with a Hierarchical Classifier." Digtal Humanities Benelux 2019, University of Liege (Belgium). [abstract](https://myrthereuver.github.io/talks/DH_Benelux_2019_paper_69.pdf)</sub>
 
 <sub>Myrthe Reuver. 13 April 2019. "Whose Gender is It? Possessive Pronoun Errors by Portuguese L2 speakers of English." 13th TWIST Student Conference in Linguistics, Leiden University (Netherlands). [slides](https://myrthereuver.github.io/talks/TWISTReuver2019.pdf)</sub>
 
-<sub>Myrthe Reuver. 24 November 2017. "First-Person Visibility: Ælfric's Pronouns in his Prefaces". StuTs Student Linguistics Conference, Radboud University Nijmegen. (Netherlands). [slides](https://myrthereuver.github.io/talks/ReuverStutsAelfric.pdf)</sub>
+<sub>Myrthe Reuver. 24 November 2017. "First-Person Visibility: Ælfric's Pronouns in his Prefaces." StuTs Student Linguistics Conference, Radboud University Nijmegen. (Netherlands). [slides](https://myrthereuver.github.io/talks/ReuverStutsAelfric.pdf)</sub>
 
 ## Conference Posters (without paper)
+
+<sub>Myrthe Reuver, Suzan Verberne, Roser Morante and Antske Fokkens. 9 July 2021. "Viewpoints in the news: claim detection for diverse news recommendation." Computational Linguistics in the Netherlandsa (CLIN) 31 (Online). [poster](https://myrthereuver.github.io/talks/CLIN31_viewpoints_poster.pdf)</sub>
+
 
 <sub>Myrthe Reuver. 30 January 2020. "How Similar are Poodles in the Microwave?" CLIN (Computational Linguistics in the Netherlands) 30, Utrecht (Netherlands). [poster](https://myrthereuver.github.io/talks/Poster_CLIN%20(5).pdf)</sub>
 
