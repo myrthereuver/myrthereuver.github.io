@@ -14,7 +14,7 @@ author_profile: true
 
 ## Workshop Proceedings
 
-<sub>**Myrthe Reuver**, Nicolas Mattis, Marijn Sax, Suzan Verberne, Nava Tintarev, Natali Helberger, Judith Moeller, Sanne Vrijenhoek,  Antske Fokkens, Wouter van Atteveldt. (2021). “Are we human, or are we users? The role of natural language processing in human-centric news recommenders that nudge users to diverse content’. In: Proceedings of the 1st Workshop on NLP for Positive Impact (co-located at ACL-IJCNLP 2021, Online). Association of Computational Linguistics, p. 47–59.
+<sub> {**Myrthe Reuver**, Nicolas Mattis, Marijn Sax}, Suzan Verberne, Nava Tintarev, Natali Helberger, Judith Moeller, Sanne Vrijenhoek,  Antske Fokkens, Wouter van Atteveldt. (2021). “Are we human, or are we users? The role of natural language processing in human-centric news recommenders that nudge users to diverse content’. In: Proceedings of the 1st Workshop on NLP for Positive Impact (co-located at ACL-IJCNLP 2021, Online). Association of Computational Linguistics, p. 47–59.
 [paper](https://aclanthology.org/2021.nlp4posimpact-1.6.pdf) </sub>
 
 
