@@ -14,6 +14,10 @@ author_profile: true
 
 ## Workshop Proceedings
 
+<sub>**Myrthe Reuver**, Nicolas Mattis, Marijn Sax, Suzan Verberne, Nava Tintarev, Natali Helberger, Judith Moeller, Sanne Vrijenhoek,  Antske Fokkens, Wouter van Atteveldt. (2021). “Are we human, or are we users? The role of natural language processing in human-centric news recommenders that nudge users to diverse content’. In: Proceedings of the 1st Workshop on NLP for Positive Impact (co-located at ACL-IJCNLP 2021, Online). Association of Computational Linguistics, p. 47–59.
+[paper](https://aclanthology.org/2021.nlp4posimpact-1.6.pdf) </sub>
+
+
 <sub>**Myrthe Reuver**, Antske Fokkens, Suzan Verberne. (2021). “No NLP Task Should be an Island: Multi-disciplinarity for Diversity in News Recommender Systems’ In: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 45–55.
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.7.pdf) |
 [poster](https://myrthereuver.github.io/talks/Reuver_NoTaskIsland%20(3).pdf)</sub>
@@ -50,6 +54,9 @@ author_profile: true
 Providing Complaint Labels for Dutch Short Clinical Texts with Supervised & Explainable Machine Learning. Thesis. Master of Science in Cognitive Science & Artificial Intelligence. Tilburg University. [text](https://www.researchgate.net/profile/Myrthe-Reuver-2/publication/349916107_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical_Texts_with_Supervised_Explainable_Machine_Learning_What_Kind_of_Emergency_Providing_Complaint_Labels_for_Dutch_Short_Clinical/links/60473581a6fdcc9c7821a978/What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinical-Texts-with-Supervised-Explainable-Machine-Learning-What-Kind-of-Emergency-Providing-Complaint-Labels-for-Dutch-Short-Clinic.pdf) | [defense slides](https://myrthereuver.github.io/talks/TilburgTriage_LSTmeeting.pptx.pdf)</sub>
 
 ## Popular Science 
+
+<sub>**Myrthe Reuver**, Nicolas Mattis. (2020) “Hackers of Science: Lessons from interdisciplinary science in a Hackathon” Socializing Science, blog website.
+[paper](https://socializingsciencevu.com/2021/03/02/hackers-of-science-lessons-from-interdisciplinary-science-in-a-hackathon/) </sub>
 
 <sub>**Myrthe Reuver**. (2019) “Hoe een computer broodjeaapverhalen leert categoriseren.” Vertelcultuur Online.
 [paper](https://neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/) |
