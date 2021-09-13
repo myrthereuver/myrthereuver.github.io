@@ -11,7 +11,7 @@ Hello world! I am Myrthe Reuver, a PhD candidate at the Computational Linguistic
 
 As a master's student I specialized in Natural Language Processing, Text Mining, and Machine Learning. I completed the Research Master's programme "Linguistics and Communication Sciences" (*cum laude*, *with Honours*) at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" (*with distinction*) at Tilburg University in Tilburg. You can download my full CV [here](/2021_CV_now.pdf). 
 
-I completed two master thesis projects on NLP with clinical text at software company Topicus in Deventer. I was also a proud co-founder and editor-in-chief of Radboud's [student linguistics journal RU:ts](http://ruts-journal.ruhosting.nl/), an open-access journal where students are authors, reviewers, and the editorial board. I also completed Honours programmes on Text Mining and AI both during both my ReMA and my BA, and enjoy teaching - I was TA on Information Science during my MA and now a teacher of Programming in Python during my PhD.
+I completed two master thesis projects on NLP with clinical text at software company Topicus in Deventer. I was also a proud co-founder and editor-in-chief of Radboud's [student linguistics journal RU:ts](http://ruts-journal.ruhosting.nl/), an open-access journal where students are authors, reviewers, and the editorial board. I enjoy teaching - I was TA on Information Science during my MA and now a teacher of Programming in Python during my PhD.
 <!-- 
 I completed a research internship at the Meertens Institute in Amsterdam on automatic classification of urban legends, and also completed two Honours programmes (a one-year one on AI in Healthcare during my ReMA, and a two-year one on Text Mining during my BA). I love teaching as well, and worked as a Teaching Assistant at Radboud, teaching the seminars for the bachelor course ["Information Science"](https://www.ru.nl/courseguides/arts/courses/ba/ibc/b1/let-ciwb158-ibc/).  -->
 
@@ -23,11 +23,11 @@ I hope to continue doing interesting research in the future, where my interests 
 
 # News
 
-25 Aug, 2021. Participated in the Summer Seminar on Research Integrity organized by the Netherlands Research Integrity Network. [Live-tweeted](https://twitter.com/myrthereuver/status/1430553466041159686).
+<sub>*25 Aug, 2021*. Participated in the Summer Seminar on Research Integrity organized by the Netherlands Research Integrity Network. [Live-tweeted](https://twitter.com/myrthereuver/status/1430553466041159686).
 
-5 Aug, 2021. [Presented our project agenda paper at the workshop on NLP for Positive Impact, co-located at ACL-IJCNLP 2021 (Online)](https://twitter.com/myrthereuver/status/1423254529521373193)
+*5 Aug, 2021*. [Presented our project agenda paper at the workshop on NLP for Positive Impact, co-located at ACL-IJCNLP 2021 (Online)](https://twitter.com/myrthereuver/status/1423254529521373193)
 
-9 July, 2021. Presented two talks at CLIN31 (Online) (Computational Linguistics in the Netherlands): an oral talk on my ReMA thesis on [smoking status in clinical files](https://twitter.com/myrthereuver/status/1413452479463784451) and one poster on "Viewpoints in the news: claim detection for diverse news recommendation."](https://twitter.com/myrthereuver/status/1413503786702737410)
+*9 July, 2021*. Presented two talks at CLIN31 (Online) (Computational Linguistics in the Netherlands): an oral talk on my ReMA thesis on [smoking status in clinical files](https://twitter.com/myrthereuver/status/1413452479463784451) and one poster on "Viewpoints in the news: claim detection for diverse news recommendation."](https://twitter.com/myrthereuver/status/1413503786702737410)</sub>sub>
 
 
 <!----->
