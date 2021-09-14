@@ -17,9 +17,7 @@ I completed a research internship at the Meertens Institute in Amsterdam on auto
 
 <!---This internship led to a [conference presentation at DHBenelux 2019](http://2019.dhbenelux.org/wp-content/uploads/sites/13/2019/08/DH_Benelux_2019_paper_69.pdf) in september 2019, [a popular science article](https://www.neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/) in Dutch in the online journal Vertelcultuur, an interactive [demo of my model](https://myrthereuver.github.io/UrbanLegendCategorizer/), and a [poster presentation](https://twitter.com/rehtrym/status/1222893742345949186/photo/1) at CLIN30 (Computational Linguistics in the Netherlands) in january 2020. Other experience includes participation in ICT with Industry 2019, where I worked in a team of researchers on automatic keyword classification of academic texts for the KB (Dutch national library). The project resulted in a [demo](https://lab.kb.nl/tool/brinkeys-tool), and a [white paper](https://www.kb.nl/sites/default/files/docs/kb_whitepaper_exploring_possibilities_automated_generation_of_metadata_eng_online.pdf). I also made an [NWO vlog](https://www.youtube.com/watch?v=-m92LxE5hQ4) about the project.-->
 
-I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**! 
-
-**Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver).** I'm always interested in new ideas or opportunities, so please contact me if you have any!
+I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**!  Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any!
 
 # News
 
