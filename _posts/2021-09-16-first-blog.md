@@ -9,14 +9,13 @@ tags:
   - NLP
   - Learning
 ---
+*Summary: My very first blog post, on my experiences as a first-year PhD candidate at CLTL. I mention 5 things I learned this year!*
 
-5 Things I Learned During the First Year of my PhD
-==============
+# 5 Things I Learned During the First Year of my PhD
 
-<img src="./pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
+<img src="~/pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
 
 <sup>[Image: CC0 licence from pixabay](https://www.pexels.com/photo/battle-black-blur-board-game-260024/)</sup>
-
 
 It’s the 16th of September 2021, which means it is exactly one year since I started as a PhD candidate! Since one of my 2021-2022 academic year’s resolutions is to start blogging, this is a great opportunity to write my very first blog post! Let’s hope it sticks.<sup>[1](#note1)</sup>
 
@@ -25,6 +24,7 @@ My PhD is on Diversity in News Recommendation, and I work at CLTL (Computational
 Despite the obvious limitations of starting a PhD during the global COVID-19 pandemic, I learned many things during my first year - and I hope writing them down will be helpful to both me and you!
 
 So what did I learn during the first 12 months of my PhD?
+
 =====
 
 # 1. I learned to write
