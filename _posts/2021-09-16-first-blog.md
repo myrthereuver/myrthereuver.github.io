@@ -9,11 +9,9 @@ tags:
   - NLP
   - Learning
 ---
-*Summary: My very first blog post, on my experiences as a first-year PhD candidate at CLTL. I mention 5 things I learned this year!*
+*My very first blog post, on my experiences as a first-year PhD candidate at CLTL. I mention 5 things I learned this year!*
 
-# 5 Things I Learned During the First Year of my PhD
-
-<img src="~/pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
+<img src="pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
 
 <sup>[Image: CC0 licence from pixabay](https://www.pexels.com/photo/battle-black-blur-board-game-260024/)</sup>
 
