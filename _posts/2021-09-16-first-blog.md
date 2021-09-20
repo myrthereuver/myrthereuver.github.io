@@ -11,7 +11,7 @@ tags:
 ---
 *My very first blog post, on my experiences as a first-year PhD candidate at CLTL. I mention 5 things I learned this year!*
 
-<img src="pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
+<img src="2021-09-16-first-blog-pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
 
 <sup>[Image: CC0 licence from pixabay](https://www.pexels.com/photo/battle-black-blur-board-game-260024/)</sup>
 
