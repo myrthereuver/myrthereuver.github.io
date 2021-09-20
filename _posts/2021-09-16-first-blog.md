@@ -2,6 +2,7 @@
 title: '5 Things I Learned During the First Year of my PhD'
 date: 2021-09-16
 permalink: /posts/2021/09/first-blog/
+comments: true
 tags:
   - PhD
   - Science
