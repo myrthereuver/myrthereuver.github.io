@@ -2,6 +2,26 @@
 
 <meta charset="utf-8">
 
+	   <!-- Twitter cards -->
+	<meta name="twitter:site"    content="@{{ site.twitter_username }}">
+ 	<meta name="twitter:creator" content="@{{ post.author }}">
+ 	<meta name="twitter:title"   content="{{ post.title }}">
+
+	{% if post.summary %}
+  		<meta name="twitter:description" content="{{ post.summary }}">
+  	{% else %}
+  		<meta name="twitter:description" content="{{ site.description }}">
+  	{% endif %}
+
+  	{% if post.image %}
+  		<meta name="twitter:card"  content="summary_large_image">
+  		<meta name="twitter:image" content="{{ post.image }}">
+  	{% else %}
+  		<meta name="twitter:card"  content="summary">
+  		<meta name="twitter:image" content="{{ site.teaser}}">
+  	{% endif %}
+  <!-- end of Twitter cards -->
+
 {% include seo.html %}
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
