@@ -25,8 +25,6 @@ Despite the obvious limitations of starting a PhD during the global COVID-19 pan
 
 So what did I learn during the first 12 months of my PhD?
 
-=====
-
 # 1. I learned to write
 
 Of course I could write before I started my PhD! I could even write in the scientific genre: I completed two master theses on clinical NLP. However, at the start of my PhD I realized I actually could not write well in the way my field demanded.
