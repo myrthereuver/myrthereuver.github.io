@@ -2,8 +2,7 @@
 title: '5 Things I Learned During the First Year of my PhD'
 date: 2021-09-16
 permalink: /posts/2021/09/first-blog/
-image: /images/2021-09-16-first-blog-pexels-pixabay-260024.jpg
-header: /images/2021-09-16-first-blog-pexels-pixabay-260024.jpg
+image: https://raw.githubusercontent.com/myrthereuver/myrthereuver.github.io/8df7578c7d21c359ebc23f450d9b5b802c2780f5/_posts/2021-09-16-first-blog-pexels-pixabay-260024.jpg
 comments: true
 tags:
   - PhD
