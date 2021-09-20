@@ -11,7 +11,7 @@ tags:
 ---
 *My very first blog post, on my experiences as a first-year PhD candidate at CLTL. I mention 5 things I learned this year!*
 
-<img src="2021-09-16-first-blog-pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
+<img src="pexels-pixabay-260024.jpg" alt="drawing" style="width:400px;"/>
 
 <sup>[Image: CC0 licence from pixabay](https://www.pexels.com/photo/battle-black-blur-board-game-260024/)</sup>
 
@@ -81,9 +81,10 @@ This dawned on me when my very first papers got accepted at academic venues, stu
 Of course, I am in no shape or form a fully formed expert yet. I hope to do much more learning in the coming 3 years (and after!). :-)
 
 Best wishes,
-Myrthe
-______________________
 
+Myrthe
+
+### **Footnotes:**
 <a name="note1">1</a>: I'm calling it a “candidate” because in the Netherlands, doing a PhD is actually a job instead of being a student - we even build up a pension!
 
 <a name="note2">2</a>: I'm aware Computational Linguistics and NLP are not exactly the same, but the purpose of this blog post is not to go into precise details here.
