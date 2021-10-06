@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /News archive/
 title: "News archive"
 excerpt: "News archive"
 author_profile: true
