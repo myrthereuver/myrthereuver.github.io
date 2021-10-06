@@ -1,10 +1,9 @@
 ---
 permalink: /
-title: "news_archive"
+title: "News archive"
 excerpt: "News archive"
 author_profile: true
 redirect_from: 
-  - /about/
   - /newsarchive.html
 ---
 
