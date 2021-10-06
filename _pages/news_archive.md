@@ -1,11 +1,11 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "news_archive"
+excerpt: "News archive"
 author_profile: true
 redirect_from: 
   - /about/
-  - /about.html
+  - /newsarchive.html
 ---
 
 # News
