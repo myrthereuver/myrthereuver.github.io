@@ -3,8 +3,6 @@ permalink: /
 title: "News archive"
 excerpt: "News archive"
 author_profile: true
-redirect_from: 
-  - /newsarchive.html
 ---
 
 # News
