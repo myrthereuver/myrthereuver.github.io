@@ -21,12 +21,17 @@ I hope to continue doing interesting research in the future, where my interests 
 
 # News
 
+<sub>*10 Nov 2021*. [Presented [my paper "Is Stance Detection Topic-Independent and Cross-topic Generalizable? – A Reproduction Study"](https://aclanthology.org/2021.argmining-1.5.pdf), a systematic and careful reproduction and assessment of cross-topic stance detection, at the Argument Mining Workshop at EMNLP, [on-site in the Dominican Republic!](https://twitter.com/myrthereuver/status/1458550050116734985)
+
+<sub>*4 Nov 2021*. Participated in an excellent workshop on supervising students by the [Forum of Young Scientists](https://www.forumyoungscientists.nl/) - and learned a lot about supervision and communication in supervision!
+
+<sub>*29 Oct 2021* Our project team on diversity in news recommendation organized a workshop for stakeholders (News organizations and policy makers) at the University of Amsterdam. (https://twitter.com/judith_moeller/status/1454080421482967045).
 
 <sub>*27 Sept 2021 - 1 Oct 2021*. On-Site Student Volunteer at RecSys2021, a hybrid conference in Amsterdam. I made new connections, saw some collaborators in 3D for the first time, and  [often tweeted relevant or interesting talks](https://twitter.com/myrthereuver/status/1443567135616241670).
 
-<sub>*16 Sept 2021*. I published [my first blog post](https://myrthereuver.github.io/posts/2021/09/first-blog/), about my one-year anniversary as a PhD Candidate and 5 things I learned in my first year!
+<sub>*16 Sept 2021*. Published [my first blog post](https://myrthereuver.github.io/posts/2021/09/first-blog/), about my one-year anniversary as a PhD Candidate and 5 things I learned in my first year!
 
-<sub>*25 Aug, 2021*. Participated in the Summer Seminar on Research Integrity organized by the Netherlands Research Integrity Network. [Live-tweeted](https://twitter.com/myrthereuver/status/1430553466041159686).
+<!-- <sub>*25 Aug, 2021*. Participated in the Summer Seminar on Research Integrity organized by the Netherlands Research Integrity Network. [Live-tweeted](https://twitter.com/myrthereuver/status/1430553466041159686).
 
 <sub>*5 Aug, 2021*. [Presented our project agenda paper at the workshop on NLP for Positive Impact, co-located at ACL-IJCNLP 2021 (Online)](https://twitter.com/myrthereuver/status/1423254529521373193)
 
