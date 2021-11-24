@@ -34,3 +34,6 @@ author_profile: true
 <sub>Myrthe Reuver. 25 November 2020. "Finding the Smoke Signal: Smoking Status Extraction & Classification." MA Course "Text Mining", Radboud University Nijmegen (Online).
 [slides](https://myrthereuver.github.io/talks/invited_slides.pdf)</sub>
 
+<sub>Myrthe Reuver. 19 November 2021. "The Road to my PhD: Full of Tips & Tricks?" ReMA course "Humanities research career preparation", Vrije Universiteit Amsterdam.
+[slides](https://myrthereuver.github.io/talks/Road_to_PhD.pdf)</sub>
+
