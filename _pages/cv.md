@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 ======
 
-[Link to Full CV](/2021_CV_now.pdf)
+[Link to Full CV](/CV_now.pdf)
 ======
 
 Education
