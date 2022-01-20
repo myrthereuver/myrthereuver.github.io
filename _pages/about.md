@@ -20,12 +20,15 @@ I completed a research internship at the Meertens Institute in Amsterdam on auto
 I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**!  Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any!
 
 # News
+<sub>*18 Jan 2022*. [Interview](https://www.trouw.nl/economie/zo-werd-myrthe-reuver-de-dupe-van-haar-data-ze-geloven-in-eerste-instantie-het-systeem~b17af53f/) in Dutch national newspaper Trouw about my problems with a (likely illegal) credit check algorithm of the Dutch National Railway company (NS) - a topic related to ethics in data science/AI and thus something I care deeply about. 
+
+<sub>*17 Jan 2022*. Published [a book summary and review](https://linguistlist.org/issues/33/33-135/) of the book "Linguistics for the Age of AI" in the LINGUIST List. My conclusion: Interesting, but may miss info for its intended audience(s). 
 
 <sub>*10 Nov 2021*. Presented [my paper "Is Stance Detection Topic-Independent and Cross-topic Generalizable? – A Reproduction Study"](https://aclanthology.org/2021.argmining-1.5.pdf), a systematic and careful reproduction and assessment of cross-topic stance detection, at the Argument Mining Workshop at EMNLP, [on-site in the Dominican Republic!](https://twitter.com/myrthereuver/status/1458550050116734985)
 
-<sub>*4 Nov 2021*. Participated in an excellent workshop on supervising students by the [Forum of Young Scientists](https://www.forumyoungscientists.nl/) - and learned a lot about supervision and communication in supervision!
+<!-- <sub>*4 Nov 2021*. Participated in an excellent workshop on supervising students by the [Forum of Young Scientists](https://www.forumyoungscientists.nl/) - and learned a lot about supervision and communication in supervision!-->
 
-<sub>*2 Nov 2021*. Spoke about my MA thesis work on weak supervision for smoking status detection at the [2nd Dutch meeting on Clinical NLP](https://clinical-nlp.cs.ru.nl/) at Radboud University, Nijmegen.
+<!-- <sub>*2 Nov 2021*. Spoke about my MA thesis work on weak supervision for smoking status detection at the [2nd Dutch meeting on Clinical NLP](https://clinical-nlp.cs.ru.nl/) at Radboud University, Nijmegen.-->
 
 <!-- <sub>*29 Oct 2021* Our project team on diversity in news recommendation organized a workshop for stakeholders (News organizations and policy makers) at [the University of Amsterdam.](https://twitter.com/judith_moeller/status/1454080421482967045). -->
 
