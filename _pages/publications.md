@@ -40,7 +40,7 @@ author_profile: true
 
 ## Book Reviews
 
-<sub> **Myrthe Reuver** (2022) <Summary \& Book Review of "Linguistics for the Age of AI". In: The Linguist List 33.135. [paper](https://linguistlist.org/issues/33/33-135/)</sub>
+<sub> **Myrthe Reuver** (2022) Summary & Book Review of "Linguistics for the Age of AI". In: The Linguist List 33.135. [paper](https://linguistlist.org/issues/33/33-135/)</sub>
 
 
 ## Popular Science 
