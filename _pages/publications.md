@@ -38,6 +38,11 @@ author_profile: true
 [paper](http://www.kbresearch.nl/brinkeys/report.pdf) |
 [code/demo](http://kbresearch.nl/brinkeys/)</sub>
 
+## Book Reviews
+
+<sub> **Myrthe Reuver** (2022) <Summary \& Book Review of "Linguistics for the Age of AI". In: The Linguist List 33.135. [paper](https://linguistlist.org/issues/33/33-135/)</sub>
+
+
 ## Popular Science 
 
 <sub>**Myrthe Reuver**, Nicolas Mattis. (2020) “Hackers of Science: Lessons from interdisciplinary science in a Hackathon” Socializing Science, blog website.

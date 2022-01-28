@@ -5,7 +5,15 @@ excerpt: "News archive"
 author_profile: true
 ---
 
-<!-- # News archive
+<!-- # News archive -->
+
+<sub>*4 Nov 2021*. Participated in an excellent workshop on supervising students by the [Forum of Young Scientists](https://www.forumyoungscientists.nl/) - and learned a lot about supervision and communication in supervision!
+
+<sub>*2 Nov 2021*. Spoke about my MA thesis work on weak supervision for smoking status detection at the [2nd Dutch meeting on Clinical NLP](https://clinical-nlp.cs.ru.nl/) at Radboud University, Nijmegen.
+
+<sub>*29 Oct 2021* Our project team on diversity in news recommendation organized a workshop for stakeholders (News organizations and policy makers) at [the University of Amsterdam.](https://twitter.com/judith_moeller/status/1454080421482967045). 
+
+
 <!-- 
 <sub>*27 Sept 2021 - 1 Oct 2021*. On-Site Student Volunteer at RecSys2021, a hybrid conference in Amsterdam. I made new connections, saw some collaborators in 3D for the first time, and  [often tweeted relevant or interesting talks](https://twitter.com/myrthereuver/status/1443567135616241670). -->
 
