@@ -20,6 +20,11 @@ I completed a research internship at the Meertens Institute in Amsterdam on auto
 I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**!  Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any!
 
 # News
+
+<sub>*18 Feb 2022*. Presented this [poster](https://myrthereuver.github.io/talks/PiaD_poster.pdf) of my previously published [paper](https://aclanthology.org/2021.nlp4posimpact-1.6/) on NLP in news rec at the [Network Institute's event on interdisciplinarity in the Digital Society](https://networkinstitute.org/iwds2021/). Paper was joint work with the project group [Rethinking News Algorithms](http://ccs.amsterdam/projects/rethinking-news-algorithms-nudging-users-towards-diverse-news-exposure/), Also, I networked at this network event! :-) 
+
+<sub>*17 Feb 2022*. Participated in the CCS.Amsterdam [Workshop](https://ccs.amsterdam/uncategorized/ccs-amsterdam-workshop-on-code-quality/) on Code Quality. 
+
 <sub>*18 Jan 2022*. [Interview](https://www.trouw.nl/economie/zo-werd-myrthe-reuver-de-dupe-van-haar-data-ze-geloven-in-eerste-instantie-het-systeem~b17af53f/) in Dutch national newspaper Trouw about my problems with a credit check algorithm of the Dutch National Railway company (NS) - a topic related to ethics in data science/AI and thus something I care deeply about. 
 
 <sub>*17 Jan 2022*. Published [a book summary and review](https://linguistlist.org/issues/33/33-135/) of the book "Linguistics for the Age of AI" in the LINGUIST List. My conclusion: Interesting, but may miss info for its intended audience(s). 
