@@ -7,6 +7,11 @@ author_profile: true
 
 <!-- # News archive -->
 
+
+<sub>*17 Feb 2022*. Participated in the CCS.Amsterdam [Workshop](https://ccs.amsterdam/uncategorized/ccs-amsterdam-workshop-on-code-quality/) on Code Quality. 
+
+<sub>*17 Jan 2022*. Published [a book summary and review](https://linguistlist.org/issues/33/33-135/) of the book "Linguistics for the Age of AI" in the LINGUIST List. My conclusion: Interesting, but may miss info for its intended audience(s). 
+
 <sub>*4 Nov 2021*. Participated in an excellent workshop on supervising students by the [Forum of Young Scientists](https://www.forumyoungscientists.nl/) - and learned a lot about supervision and communication in supervision!
 
 <sub>*2 Nov 2021*. Spoke about my MA thesis work on weak supervision for smoking status detection at the [2nd Dutch meeting on Clinical NLP](https://clinical-nlp.cs.ru.nl/) at Radboud University, Nijmegen.
@@ -14,8 +19,10 @@ author_profile: true
 <sub>*29 Oct 2021* Our project team on diversity in news recommendation organized a workshop for stakeholders (News organizations and policy makers) at [the University of Amsterdam.](https://twitter.com/judith_moeller/status/1454080421482967045). 
 
 
-<!-- 
-<sub>*27 Sept 2021 - 1 Oct 2021*. On-Site Student Volunteer at RecSys2021, a hybrid conference in Amsterdam. I made new connections, saw some collaborators in 3D for the first time, and  [often tweeted relevant or interesting talks](https://twitter.com/myrthereuver/status/1443567135616241670). -->
+<sub>*27 Sept 2021 - 1 Oct 2021*. On-Site Student Volunteer at RecSys2021, a hybrid conference in Amsterdam. I made new connections, saw some collaborators in 3D for the first time, and  [often tweeted relevant or interesting talks](https://twitter.com/myrthereuver/status/1443567135616241670).
+
+
+<sub>*16 Sept 2021*. Published [my first blog post](https://myrthereuver.github.io/posts/2021/09/first-blog/), about my one-year anniversary as a PhD Candidate and 5 things I learned in my first year!
 
 <sub>*25 Aug, 2021*. Participated in the Summer Seminar on Research Integrity organized by the Netherlands Research Integrity Network. [Live-tweeted](https://twitter.com/myrthereuver/status/1430553466041159686).
 
