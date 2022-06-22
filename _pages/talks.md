@@ -24,6 +24,8 @@ author_profile: true
 
 ## Conference Posters (without paper)
 
+<sub>Myrthe Reuver, Kasper Welbers, Wouter van Atteveldt, Antske Fokkens, Mariken van der Velden and Felicia Locherbach. "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation" Computational Linguistics in the Netherlandsa (CLIN) 32 [poster](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/)
+
 <sub>Myrthe Reuver, Suzan Verberne, Roser Morante and Antske Fokkens. 9 July 2021. "Viewpoints in the news: claim detection for diverse news recommendation." Computational Linguistics in the Netherlandsa (CLIN) 31 (Online). [poster](https://myrthereuver.github.io/talks/CLIN31_viewpoints_poster.pdf)</sub>
 
 
