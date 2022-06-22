@@ -25,13 +25,13 @@ I hope to continue doing interesting research in the future, where my interests 
 
 <sub>*June 2022.* Following the [SIKS "Responsible AI"](https://twitter.com/myrthereuver/status/1539291270492966912) course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
 
-<sub>*17 June 2022* Presented a [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](_talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on  my current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
+<sub>*17 June 2022* Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
 
-<sub>*13 Juni 2022*. Whoo, received small grant (with dr. Ana Lopes (Social Science, VU)) for our interdisciplinary project "Reasons for online (dis)trust in sustainable initiatives" - financed by the Interdisciplinarity in the Digital Society VU grant.  
+<sub>*13 Juni 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project "Reasons for online (dis)trust in sustainable initiatives" - financed by the Interdisciplinarity in the Digital Society VU grant.  
 
 <sub>*29 April 2022* Started working once a month from Leiden University, where my co-advisor Suzan Verberne is based! If you are based in Leiden and want to talk/lunch/have ideas about my research, let me know!
 
-<sub> *May 2022* Gave an [interview](https://twitter.com/myrthereuver/status/1526251037711114244) in the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
+<sub> *May 2022* Gave an [interview](https://twitter.com/myrthereuver/status/1526251037711114244) to the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
 
 <sub>*18 Feb 2022*. Presented this [poster](https://myrthereuver.github.io/talks/PiaD_poster.pdf) - of my previously published [paper](https://aclanthology.org/2021.nlp4posimpact-1.6/) on NLP in news rec - at the [Network Institute's event on interdisciplinarity in the Digital Society](https://networkinstitute.org/iwds2021/). Paper was joint work with the project group [Rethinking News Algorithms](http://ccs.amsterdam/projects/rethinking-news-algorithms-nudging-users-towards-diverse-news-exposure/). Also, I networked at this network event! :-) 
 <!-- 
