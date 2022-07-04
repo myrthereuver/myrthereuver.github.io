@@ -7,6 +7,7 @@ author_profile: true
 
 <!-- # News archive -->
 
+<sub>*18 Feb 2022*. Presented this [poster](https://myrthereuver.github.io/talks/PiaD_poster.pdf) - of my previously published [paper](https://aclanthology.org/2021.nlp4posimpact-1.6/) on NLP in news rec - at the [Network Institute's event on interdisciplinarity in the Digital Society](https://networkinstitute.org/iwds2021/). Paper was joint work with the project group [Rethinking News Algorithms](http://ccs.amsterdam/projects/rethinking-news-algorithms-nudging-users-towards-diverse-news-exposure/). Also, I networked at this network event! :-) 
 
 <sub>*17 Feb 2022*. Participated in the CCS.Amsterdam [Workshop](https://ccs.amsterdam/uncategorized/ccs-amsterdam-workshop-on-code-quality/) on Code Quality. 
 
