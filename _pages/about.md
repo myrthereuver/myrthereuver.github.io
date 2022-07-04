@@ -23,11 +23,13 @@ I hope to continue doing interesting research in the future, where my interests 
 
 <sub>*8 - 19 August 2022.* I will attend the ESSLI summer school in Galway, Ireland in the summer of 2022.
 
+<sub>*1 July 2022.* Gave an [invited talk](https://twitter.com/MilaNLProc/status/1542891858531155968) at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University (Milan), where I talked about my interdisciplinary research of the past two years into viewpoint diversity in news recommendation. It was a lot of fun, with a great follow-up discussion! [slides](https://myrthereuver.github.io/talks/Reuver_CodingAperitivo_MilaNLP.pptx.pdf) 
+
 <sub>*June 2022.* Following the [SIKS "Responsible AI"](https://twitter.com/myrthereuver/status/1539291270492966912) course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
 
 <sub>*17 June 2022* Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
 
-<sub>*13 Juni 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project "Reasons for online (dis)trust in sustainable initiatives" - financed by the Interdisciplinarity in the Digital Society VU grant.  
+<sub>*13 June 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project "Reasons for online (dis)trust in sustainable initiatives" - financed by the Interdisciplinarity in the Digital Society VU grant.  
 
 <sub>*29 April 2022* Started working once a month from Leiden University, where my co-advisor Suzan Verberne is based! If you are based in Leiden and want to talk/lunch/have ideas about my research, let me know!
 
