@@ -23,7 +23,7 @@ I hope to continue doing interesting research in the future, where my interests 
 
 <sub>*8 - 19 August 2022.* I will attend the ESSLI summer school in Galway, Ireland in the summer of 2022.
 
-<sub>*1 July 2022.* Gave an [invited talk](https://twitter.com/MilaNLProc/status/1542891858531155968) at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University (Milan), where I talked about my interdisciplinary research of the past two years into viewpoint diversity in news recommendation. It was a lot of fun, with a great follow-up discussion! [slides](https://myrthereuver.github.io/talks/Reuver_CodingAperitivo_MilaNLP.pptx.pdf) 
+<sub>*1 July 2022.* Gave an [invited talk](https://twitter.com/MilaNLProc/status/1542891858531155968) at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University (Milan), where I talked about my interdisciplinary research of the past two years into viewpoint diversity in news recommendation. It was a lot of fun, with a great follow-up discussion! See my [slides](https://myrthereuver.github.io/talks/Reuver_CodingAperitivo_MilaNLP.pptx.pdf) here. 
 
 <sub>*June 2022.* Following the [SIKS "Responsible AI"](https://twitter.com/myrthereuver/status/1539291270492966912) course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
 
