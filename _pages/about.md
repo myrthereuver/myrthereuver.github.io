@@ -21,7 +21,7 @@ I hope to continue doing interesting research in the future, where my interests 
 
 # News
 
-<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction: paper coming soon!
+<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. We will present our [paper](https://arxiv.org/abs/2209.08966) at the workshop at COLING 2022.
 
 <sub>*8 - 19 August 2022.* I attended the [ESSLLI summer school](https://2022.esslli.eu/) in Galway, Ireland in the summer of 2022, where I followed courses on Argument Mining, Language Resource Development, and Vector-Based Semantics.
 
