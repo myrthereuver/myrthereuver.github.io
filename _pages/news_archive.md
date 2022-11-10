@@ -7,6 +7,8 @@ author_profile: true
 
 <!-- # News archive -->
 
+<sub>*17 June 2022* Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
+
 <sub>*18 Feb 2022*. Presented this [poster](https://myrthereuver.github.io/talks/PiaD_poster.pdf) - of my previously published [paper](https://aclanthology.org/2021.nlp4posimpact-1.6/) on NLP in news rec - at the [Network Institute's event on interdisciplinarity in the Digital Society](https://networkinstitute.org/iwds2021/). Paper was joint work with the project group [Rethinking News Algorithms](http://ccs.amsterdam/projects/rethinking-news-algorithms-nudging-users-towards-diverse-news-exposure/). Also, I networked at this network event! :-) 
 
 <sub>*17 Feb 2022*. Participated in the CCS.Amsterdam [Workshop](https://ccs.amsterdam/uncategorized/ccs-amsterdam-workshop-on-code-quality/) on Code Quality. 

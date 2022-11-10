@@ -19,9 +19,16 @@ I completed a research internship at the Meertens Institute in Amsterdam on auto
 
 I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**!  Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
 
-# News
+# Highlights
 
-<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. We will present our [paper](https://arxiv.org/abs/2209.08966) at the workshop at COLING 2022.
+## September 2022 -   
+
+<sub>* *18 October 2022* Invited to speak at the [VU Network Institute Lunch Talk](https://networkinstitute.org/research/research-lunches/) on my recently funded interdisciplinary project “Argument Mining to Analyze Reasons for online (Dis)Trust in Sustainable Initiatives".
+
+
+## Summer 2022
+
+<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://arxiv.org/abs/2209.08966) was also published in the Proceedings. 
 
 <sub>*8 - 19 August 2022.* I attended the [ESSLLI summer school](https://2022.esslli.eu/) in Galway, Ireland in the summer of 2022, where I followed courses on Argument Mining, Language Resource Development, and Vector-Based Semantics.
 
@@ -29,12 +36,15 @@ I hope to continue doing interesting research in the future, where my interests 
 
 <sub>*June 2022.* Following the [SIKS "Responsible AI"](https://twitter.com/myrthereuver/status/1539291270492966912) course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
 
-<sub>*17 June 2022* Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
+<!-- <sub>*17 June 2022* Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32). -->
 
 <sub>*13 June 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project "Reasons for online (dis)trust in sustainable initiatives" - financed by the Interdisciplinarity in the Digital Society VU grant.  
 
 <!-- <sub>*29 April 2022* Started working once a month from Leiden University, where my co-advisor Suzan Verberne is based! If you are based in Leiden and want to talk/lunch/have ideas about my research, let me know!
  -->
+
+## Feb - May 2022
+
 <sub> *May 2022* Gave an [interview](https://myrthereuver.github.io/_pages/ComputerIdee_Artikel.pdf) to the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
 
 <!-- <sub>*18 Feb 2022*. Presented this [poster](https://myrthereuver.github.io/talks/PiaD_poster.pdf) - of my previously published [paper](https://aclanthology.org/2021.nlp4posimpact-1.6/) on NLP in news rec - at the [Network Institute's event on interdisciplinarity in the Digital Society](https://networkinstitute.org/iwds2021/). Paper was joint work with the project group [Rethinking News Algorithms](http://ccs.amsterdam/projects/rethinking-news-algorithms-nudging-users-towards-diverse-news-exposure/). Also, I networked at this network event! :-)  -->
@@ -44,6 +54,8 @@ I hope to continue doing interesting research in the future, where my interests 
 <sub>*18 Jan 2022*. [Interview](https://www.trouw.nl/economie/zo-werd-myrthe-reuver-de-dupe-van-haar-data-ze-geloven-in-eerste-instantie-het-systeem~b17af53f/) in Dutch national newspaper Trouw about my problems with a credit check algorithm of the Dutch National Railway company (NS) - a topic related to ethics in data science/AI and thus something I care deeply about. 
 
 <!-- <sub>*17 Jan 2022*. Published [a book summary and review](https://linguistlist.org/issues/33/33-135/) of the book "Linguistics for the Age of AI" in the LINGUIST List. My conclusion: Interesting, but may miss info for its intended audience(s).  -->
+
+## 2021 
 
 <sub>*10 Nov 2021*. Presented [my paper "Is Stance Detection Topic-Independent and Cross-topic Generalizable? – A Reproduction Study"](https://aclanthology.org/2021.argmining-1.5.pdf), a systematic and careful reproduction and assessment of cross-topic stance detection, at the Argument Mining Workshop at EMNLP, [on-site in the Dominican Republic!](https://twitter.com/myrthereuver/status/1458550050116734985)
 
