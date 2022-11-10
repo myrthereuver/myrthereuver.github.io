@@ -25,7 +25,7 @@ I hope to continue doing interesting research in the future, where my interests 
 <sub>*18 October 2022* Invited to speak at the [VU Network Institute Lunch Talk](https://networkinstitute.org/research/research-lunches/) on my recently funded interdisciplinary project “Argument Mining to Analyze Reasons for online (Dis)Trust in Sustainable Initiatives".
 
 
-<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://arxiv.org/abs/2209.08966) was also published in the Proceedings. 
+<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings. 
 
 <sub>*8 - 19 August 2022.* Attended the [ESSLLI summer school](https://2022.esslli.eu/) in Galway, Ireland in the summer of 2022, where I followed courses on Argument Mining, Language Resource Development, and Vector-Based Semantics.
 
@@ -50,8 +50,6 @@ I hope to continue doing interesting research in the future, where my interests 
 <sub>*18 Jan 2022*. [Interview](https://www.trouw.nl/economie/zo-werd-myrthe-reuver-de-dupe-van-haar-data-ze-geloven-in-eerste-instantie-het-systeem~b17af53f/) in Dutch national newspaper Trouw about my problems with a credit check algorithm of the Dutch National Railway company (NS) - a topic related to ethics in data science/AI and thus something I care deeply about. 
 
 <!-- <sub>*17 Jan 2022*. Published [a book summary and review](https://linguistlist.org/issues/33/33-135/) of the book "Linguistics for the Age of AI" in the LINGUIST List. My conclusion: Interesting, but may miss info for its intended audience(s).  -->
-
-### 2021 
 
 <sub>*10 Nov 2021*. Presented [my paper "Is Stance Detection Topic-Independent and Cross-topic Generalizable? – A Reproduction Study"](https://aclanthology.org/2021.argmining-1.5.pdf), a systematic and careful reproduction and assessment of cross-topic stance detection, at the Argument Mining Workshop at EMNLP, [on-site in the Dominican Republic!](https://twitter.com/myrthereuver/status/1458550050116734985)
 
