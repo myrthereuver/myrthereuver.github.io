@@ -19,11 +19,10 @@ I completed a research internship at the Meertens Institute in Amsterdam on auto
 
 I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**!  Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
 
-# Highlights
+# News Highlights
 
 
 <sub>*18 October 2022* Invited to speak at the [VU Network Institute Lunch Talk](https://networkinstitute.org/research/research-lunches/) on my recently funded interdisciplinary project “Argument Mining to Analyze Reasons for online (Dis)Trust in Sustainable Initiatives".
-
 
 <sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings. 
 
