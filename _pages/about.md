@@ -25,7 +25,7 @@ I hope to continue doing interesting research in the future, where my interests 
 
 <sub> *24 November 2022* Gave a [talk](https://myrthereuver.github.io/talks/PreregisteringNLP.pdf) at the Open Science Coffee Leiden on Preregistration in NLP. I shared some of my own recent experiences and discussed preregistration with researchers from other disciplines.
 
-<sub>*18 October 2022* Invited for a [talk](https://myrthereuver.github.io/talks/Distrust_talk.pdf) at the [VU Network Institute Lunch Talk](https://networkinstitute.org/research/research-lunches/) on my recently funded interdisciplinary project “Argument Mining to Analyze Reasons for online (Dis)Trust in Sustainable Initiatives".
+<sub>*18 October 2022* Invited for a [talk](https://myrthereuver.github.io/talks/DisTrust_talk.pdf) at the [VU Network Institute Lunch Talk](https://networkinstitute.org/research/research-lunches/) on my recently funded interdisciplinary project “Argument Mining to Analyze Reasons for online (Dis)Trust in Sustainable Initiatives".
 
 <sub> *Sept/Oct 2022* Teaching: taught the course Research Seminar on Argument Mining in the ReMa Human Language Technology at the Free University of Amsterdam, and gave a [guest lecture](https://myrthereuver.github.io/talks/GuestLecture_Leiden.pdf) on stance detection in the Text Mining course (part of the MSc Computer Science) at Leiden University.
 
