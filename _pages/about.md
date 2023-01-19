@@ -46,7 +46,5 @@ I hope to continue doing interesting research in the future, where my interests 
 <sub> *May 2022* Gave an [interview](https://myrthereuver.github.io/_pages/ComputerIdee_Artikel.pdf) to the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
 
 
-<!----->
-
 
 
