@@ -10,12 +10,6 @@ redirect_from:
 Hello world! ⚡ I am Myrthe Reuver, a PhD candidate at the Computational Linguistics and Text Mining Lab ([CLTL](http://www.cltl.nl/)) at the Free University of Amsterdam (VU). My research is about news recommender systems and specifically: diversity in news recommender systems. I intend to use Natural Language Processing techniques, such as language models, to automatically measure diversity. I'm supervised by [prof. dr. Antske Fokkens](http://wordpress.let.vupr.nl/antske/) (also connected to CLTL) and [dr. Suzan Verberne](http://liacs.leidenuniv.nl/~verbernes/) (connected to LIACS at Leiden University).
 
 As a master's student I specialized in Natural Language Processing, Text Mining, and Machine Learning. I completed the Research Master's programme "Linguistics and Communication Sciences" (*cum laude + with Honours*) at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" (*with distinction*) at Tilburg University in Tilburg. I wrote two master's theses on clinical NLP at software company Topicus, was a proud co-founder and editor-in-chief of Radboud's [student linguistics journal RU:ts](https://www.facebook.com/RUtsJournal/), and also enjoy teaching: I was TA on Information Science during my MA and have taught 'Programming in Python' as well as a research seminar on Argument Mining during my PhD. You can download my full CV [here](/CV_now.pdf). 
-<!-- 
- -->
-<!-- 
-I completed a research internship at the Meertens Institute in Amsterdam on automatic classification of urban legends, and also completed two Honours programmes (a one-year one on AI in Healthcare during my ReMA, and a two-year one on Text Mining during my BA). I love teaching as well, and worked as a Teaching Assistant at Radboud, teaching the seminars for the bachelor course ["Information Science"](https://www.ru.nl/courseguides/arts/courses/ba/ibc/b1/let-ciwb158-ibc/).  -->
-
-<!---This internship led to a [conference presentation at DHBenelux 2019](http://2019.dhbenelux.org/wp-content/uploads/sites/13/2019/08/DH_Benelux_2019_paper_69.pdf) in september 2019, [a popular science article](https://www.neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/) in Dutch in the online journal Vertelcultuur, an interactive [demo of my model](https://myrthereuver.github.io/UrbanLegendCategorizer/), and a [poster presentation](https://twitter.com/rehtrym/status/1222893742345949186/photo/1) at CLIN30 (Computational Linguistics in the Netherlands) in january 2020. Other experience includes participation in ICT with Industry 2019, where I worked in a team of researchers on automatic keyword classification of academic texts for the KB (Dutch national library). The project resulted in a [demo](https://lab.kb.nl/tool/brinkeys-tool), and a [white paper](https://www.kb.nl/sites/default/files/docs/kb_whitepaper_exploring_possibilities_automated_generation_of_metadata_eng_online.pdf). I also made an [NWO vlog](https://www.youtube.com/watch?v=-m92LxE5hQ4) about the project.-->
 
 I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**!  Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
 
@@ -39,9 +33,7 @@ I hope to continue doing interesting research in the future, where my interests 
 
 <sub>*June 2022.* Following the [SIKS "Responsible AI"](https://twitter.com/myrthereuver/status/1539291270492966912) course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
 
-
 <sub>*13 June 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project "Reasons for online (dis)trust in sustainable initiatives" - financed by the Interdisciplinarity in the Digital Society VU grant.  
-
 
 <sub> *May 2022* Gave an [interview](https://myrthereuver.github.io/_pages/ComputerIdee_Artikel.pdf) to the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
 
