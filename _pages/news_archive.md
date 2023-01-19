@@ -13,7 +13,11 @@ author_profile: true
 
 <sub>*17 Feb 2022*. Participated in the CCS.Amsterdam [Workshop](https://ccs.amsterdam/uncategorized/ccs-amsterdam-workshop-on-code-quality/) on Code Quality. 
 
+<sub>*18 Jan 2022*. [Interview](https://www.trouw.nl/economie/zo-werd-myrthe-reuver-de-dupe-van-haar-data-ze-geloven-in-eerste-instantie-het-systeem~b17af53f/) in Dutch national newspaper Trouw about my problems with a credit check algorithm of the Dutch National Railway company (NS) - a topic related to ethics in data science/AI and thus something I care deeply about. 
+
 <sub>*17 Jan 2022*. Published [a book summary and review](https://linguistlist.org/issues/33/33-135/) of the book "Linguistics for the Age of AI" in the LINGUIST List. My conclusion: Interesting, but may miss info for its intended audience(s). 
+
+<sub>*10 Nov 2021*. Presented [my paper "Is Stance Detection Topic-Independent and Cross-topic Generalizable? – A Reproduction Study"](https://aclanthology.org/2021.argmining-1.5.pdf), a systematic and careful reproduction and assessment of cross-topic stance detection, at the Argument Mining Workshop at EMNLP, [on-site in the Dominican Republic!](https://twitter.com/myrthereuver/status/1458550050116734985)
 
 <sub>*4 Nov 2021*. Participated in an excellent workshop on supervising students by the [Forum of Young Scientists](https://www.forumyoungscientists.nl/) - and learned a lot about supervision and communication in supervision!
 
