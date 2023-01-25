@@ -15,7 +15,7 @@ I hope to continue doing interesting research in the future, where my interests 
 
 # News 
 
-<sub> *11 Jan 2033* Interdisciplinary work-in-progress "Argument Mining to Analyze Reasons for (a Lack of) Trust in Sustainable Initiatives" (with Ana Isabel Lopes (communication science) and student Alessandra Polimeno (CLTL)) [got accepted](https://twitter.com/myrthereuver/status/1613308093915607040) for a talk at at ICA23 in May 2023.
+<sub> *11 Jan 2023* Interdisciplinary work-in-progress "Argument Mining to Analyze Reasons for (a Lack of) Trust in Sustainable Initiatives" (with Ana Isabel Lopes (communication science) and student Alessandra Polimeno (CLTL)) [got accepted](https://twitter.com/myrthereuver/status/1613308093915607040) for a talk at at ICA23 in May 2023.
 
 <sub> *21 - 25 November 2022* Invited participant to Lorentz workshop week ["Diverse News Recommenders: from concept to implementation"](https://www.lorentzcenter.nl/diverse-news-recommenders-from-concept-to-implementation.html), where I gave a [talk](https://myrthereuver.github.io/talks/LorentzCentre.pdf) on my own and master student Alessandra Polimeno's work, and participated in implementing NLP for diversity in news recommendation.
 
