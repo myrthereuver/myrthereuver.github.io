@@ -2,7 +2,7 @@
 title: 'The End of Academic NLP Research? Responsible Large Language Models and the Future of NLP at the 2023 HLPT Winterschool'
 date: 2023-02-27
 permalink: /posts/2023/02/winterschool-responsible/
-image: https://raw.githubusercontent.com/myrthereuver/myrthereuver.github.io/8df7578c7d21c359ebc23f450d9b5b802c2780f5/_posts/2EE2B5C7-B6E2-48C2-B0F3-B12A3F893A2B.JPG
+image: https://raw.githubusercontent.com/myrthereuver/myrthereuver.github.io/master/_posts/2EE2B5C7-B6E2-48C2-B0F3-B12A3F893A2B.JPG
 comments: true
 tags:
   - PhD
@@ -13,7 +13,7 @@ tags:
 ---
 *This blog post describes my experiences at the Nordic HPLT Winter school - with also the very exciting panel “Is the End of Academic NLP Research in Sight?”*
 
-<img src="https://github.com/myrthereuver/myrthereuver.github.io/blob/8df7578c7d21c359ebc23f450d9b5b802c2780f5/_posts/2EE2B5C7-B6E2-48C2-B0F3-B12A3F893A2B.JPG?raw=true" alt="drawing" style="width:400px;"/>
+<img src="https://raw.githubusercontent.com/myrthereuver/myrthereuver.github.io/master/_posts/2EE2B5C7-B6E2-48C2-B0F3-B12A3F893A2B.JPG" alt="picture of sunset at the conference hotel in the snow" style="width:400px;"/>
 
 <sup>[Image: Myrthe Reuver, Sunset at the Conference Hotel)</sup>
 
