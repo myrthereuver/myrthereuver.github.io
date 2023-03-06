@@ -15,6 +15,11 @@ I hope to continue doing interesting research in the future, where my interests 
 
 # News 
 
+<sub> *24 Feb 2023* Invited for a short talk, ["Cross-topic Stances and How to
+Find Them (in the News)"](https://myrthereuver.github.io/talks/PreregisteringNLP.pdf), at the Univeristy of Groningen, with also [talks by fellow Argument Miners](https://twitter.com/myrthereuver/status/1629130401120747521) at CLTL! 
+
+<sub>*6 to 8 Feb 2023* Participated in the [2023 HPLT winter school on Large-Scale Language Modeling](http://wiki.nlpl.eu/index.php/Community/training) in Norway, and wrote a [blog post](https://myrthereuver.github.io/posts/2023/02/winterschool-responsible/) about my personal highlights.
+
 <sub> *11 Jan 2023* Interdisciplinary work-in-progress "Argument Mining to Analyze Reasons for (a Lack of) Trust in Sustainable Initiatives" (with Ana Isabel Lopes (communication science) and student Alessandra Polimeno (CLTL)) [got accepted](https://twitter.com/myrthereuver/status/1613308093915607040) for a talk at at ICA23 in May 2023.
 
 <sub> *21 - 25 November 2022* Invited participant to Lorentz workshop week ["Diverse News Recommenders: from concept to implementation"](https://www.lorentzcenter.nl/diverse-news-recommenders-from-concept-to-implementation.html), where I gave a [talk](https://myrthereuver.github.io/talks/LorentzCentre.pdf) on my own and master student Alessandra Polimeno's work, and participated in implementing NLP for diversity in news recommendation.
