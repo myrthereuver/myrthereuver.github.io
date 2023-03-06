@@ -16,7 +16,7 @@ I hope to continue doing interesting research in the future, where my interests 
 # News 
 
 <sub> *24 Feb 2023* Invited for a short talk, ["Cross-topic Stances and How to
-Find Them (in the News)"](https://myrthereuver.github.io/talks/PreregisteringNLP.pdf), at the Univeristy of Groningen, with also [talks by fellow Argument Miners](https://twitter.com/myrthereuver/status/1629130401120747521) at CLTL! 
+Find Them (in the News)"](https://myrthereuver.github.io/talks/Groningen_talk.pdf), at the Univeristy of Groningen, with also [talks by fellow Argument Miners](https://twitter.com/myrthereuver/status/1629130401120747521) at CLTL! 
 
 <sub>*6 to 8 Feb 2023* Participated in the [2023 HPLT winter school on Large-Scale Language Modeling](http://wiki.nlpl.eu/index.php/Community/training) in Norway, and wrote a [blog post](https://myrthereuver.github.io/posts/2023/02/winterschool-responsible/) about my personal highlights.
 
