@@ -37,10 +37,6 @@ Find Them (in the News)"](https://myrthereuver.github.io/talks/Groningen_talk.pd
 <sub>*8 - 19 August 2022.* Attended the [ESSLLI summer school](https://2022.esslli.eu/) in Galway, Ireland in the summer of 2022, where I followed courses on Argument Mining, Language Resource Development, and Vector-Based Semantics.
 
 <sub>*1 July 2022.* Gave an [invited talk](https://twitter.com/MilaNLProc/status/1542891858531155968) at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University (Milan), where I talked about my interdisciplinary research of the past two years into viewpoint diversity in news recommendation. It was a lot of fun, with a great follow-up discussion! See my [slides](https://myrthereuver.github.io/talks/Reuver_CodingAperitivo_MilaNLP.pptx.pdf) here. 
-<!-- 
-<sub>*June 2022.* Following the [SIKS "Responsible AI"](https://twitter.com/myrthereuver/status/1539291270492966912) course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
-
-<sub>*13 June 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project "Reasons for online (dis)trust in sustainable initiatives" - financed by the Interdisciplinarity in the Digital Society VU grant.   -->
 
 <sub> *May 2022* Gave an [interview](https://myrthereuver.github.io/_pages/ComputerIdee_Artikel.pdf) to the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
 
