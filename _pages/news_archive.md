@@ -9,7 +9,7 @@ author_profile: true
 
 <sub>*17 June 2022*. Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
   
-<sub>*June 2022*.Following the SIKS “Responsible AI” course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
+<sub>*June 2022*. Followed the SIKS “Responsible AI” course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
 
 <sub>*13 June 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project “Reasons for online (dis)trust in sustainable initiatives” - financed by the Interdisciplinarity in the Digital Society VU grant. –>
 
