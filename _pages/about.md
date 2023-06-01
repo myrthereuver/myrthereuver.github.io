@@ -14,7 +14,8 @@ My specialization is in Natural Language Processing and Text Mining, specificall
 I hope to continue doing interesting research in the future, where my interests lie in **societally and scientifically responsible NLP in complex domains**!  Want to know more about any of my current or past projects? Ask me through email or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
 
 # News 
-
+<sub> * 24 - 30 May 2023* At ICA23: Presented a paper on "Argument Mining to Analyze Reasons for (a Lack of) Trust in Sustainable Initiatives” - written with Ana Isabel Lopes (communication science) and student Alessandra Polimeno (CLTL). Also [participated in the pre-conference hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7070040569099497472/) with a case on few-shot detection of hypocrisy accusations in online sustainability debates. 
+  
 <sub> *4 May 2023* Participated in the CLTL hackathon on generative models - in an excellent team with fellow PhDs Urja Khurana and Jonathan Kamp and MA student Swarupa Hardikar. We investigated a case study involving consistency in multi-lingual and multi-cultural settings, including computational subjective argumentation. More soon! 
 
 <sub> *24 Feb 2023* Invited for a short talk, ["Cross-topic Stances and How to
