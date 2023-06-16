@@ -30,19 +30,6 @@ Find Them (in the News)"](https://myrthereuver.github.io/talks/Groningen_talk.pd
 
 <sub> *21 - 25 November 2022* Invited participant to Lorentz workshop week ["Diverse News Recommenders: from concept to implementation"](https://www.lorentzcenter.nl/diverse-news-recommenders-from-concept-to-implementation.html), where I gave a [talk](https://myrthereuver.github.io/talks/LorentzCentre.pdf) on my own and master student Alessandra Polimeno's work, and participated in implementing NLP for diversity in news recommendation.
 
-<sub> *24 November 2022* Gave a [talk](https://myrthereuver.github.io/talks/PreregisteringNLP.pdf) at the Open Science Coffee Leiden on Preregistration in NLP. I shared some of my own recent experiences and discussed preregistration with researchers from other disciplines.
-
-<sub>*18 October 2022* Invited for a [talk](https://myrthereuver.github.io/talks/DisTrust_talk.pdf) at the [VU Network Institute Lunch Talk](https://networkinstitute.org/research/research-lunches/) on my recently funded interdisciplinary project “Argument Mining to Analyze Reasons for online (Dis)Trust in Sustainable Initiatives".
-
-<sub> *Sept/Oct 2022* Teaching: taught the course Research Seminar on Argument Mining in the ReMa Human Language Technology at the Free University of Amsterdam, and gave a [guest lecture](https://myrthereuver.github.io/talks/GuestLecture_Leiden.pdf) on stance detection in the Text Mining course (part of the MSc Computer Science) at Leiden University.
-
-<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) 🥇 the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings. 
-
-<sub>*8 - 19 August 2022.* Attended the [ESSLLI summer school](https://2022.esslli.eu/) in Galway, Ireland in the summer of 2022, where I followed courses on Argument Mining, Language Resource Development, and Vector-Based Semantics.
-
-<sub>*1 July 2022.* Gave an [invited talk](https://twitter.com/MilaNLProc/status/1542891858531155968) at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University (Milan), where I talked about my interdisciplinary research of the past two years into viewpoint diversity in news recommendation. It was a lot of fun, with a great follow-up discussion! See my [slides](https://myrthereuver.github.io/talks/Reuver_CodingAperitivo_MilaNLP.pptx.pdf) here. 
-
-<sub> *May 2022* Gave an [interview](https://myrthereuver.github.io/_pages/ComputerIdee_Artikel.pdf) to the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
 
 
 
