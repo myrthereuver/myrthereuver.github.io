@@ -7,7 +7,26 @@ author_profile: true
 
 <!-- # News archive -->
 
-<sub>*17 June 2022* Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
+
+<sub> *24 November 2022* Gave a [talk](https://myrthereuver.github.io/talks/PreregisteringNLP.pdf) at the Open Science Coffee Leiden on Preregistration in NLP. I shared some of my own recent experiences and discussed preregistration with researchers from other disciplines.
+
+<sub>*18 October 2022* Invited for a [talk](https://myrthereuver.github.io/talks/DisTrust_talk.pdf) at the [VU Network Institute Lunch Talk](https://networkinstitute.org/research/research-lunches/) on my recently funded interdisciplinary project “Argument Mining to Analyze Reasons for online (Dis)Trust in Sustainable Initiatives".
+
+<sub> *Sept/Oct 2022* Teaching: taught the course Research Seminar on Argument Mining in the ReMa Human Language Technology at the Free University of Amsterdam, and gave a [guest lecture](https://myrthereuver.github.io/talks/GuestLecture_Leiden.pdf) on stance detection in the Text Mining course (part of the MSc Computer Science) at Leiden University.
+
+<!-- <sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) 🥇 the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings.  -->
+
+<sub>*8 - 19 August 2022.* Attended the [ESSLLI summer school](https://2022.esslli.eu/) in Galway, Ireland in the summer of 2022, where I followed courses on Argument Mining, Language Resource Development, and Vector-Based Semantics.
+
+<sub>*1 July 2022.* Gave an [invited talk](https://twitter.com/MilaNLProc/status/1542891858531155968) at the [MilaNLP Lab](https://milanlproc.github.io/) at Bocconi University (Milan), where I talked about my interdisciplinary research of the past two years into viewpoint diversity in news recommendation. It was a lot of fun, with a great follow-up discussion! See my [slides](https://myrthereuver.github.io/talks/Reuver_CodingAperitivo_MilaNLP.pptx.pdf) here. 
+
+<sub> *May 2022* Gave an [interview](https://myrthereuver.github.io/_pages/ComputerIdee_Artikel.pdf) to the Dutch computer magazine Computer Idee, about my problems with the credit scoring algorithm of the National Railway (NS) and also my research project on diversity in news recommendation.
+
+<sub>*17 June 2022*. Presented the [poster "Beyond Gun Control: Creating a Dutch Stance Dataset for Diversity in News Recommendation"](https://myrthereuver.github.io/talks/CLIN32_poster.pdf) from my [abstract](https://clin2022.uvt.nl/beyond-gun-control-creating-a-dutch-stance-dataset-for-diversity-in-news-recommendation/) on current work on a Dutch Political Stance dataset (shared work with Social Science colleagues at the VU, among them Kasper Welbers) at Computational Linguistics in the Netherlands (CLIN32).
+  
+<sub>*June 2022*. Followed the SIKS “Responsible AI” course, which had a roleplaying game where we pretended to be different stakeholders for AI used for automatic resume scanning in hiring, after an ableist hiring incident. My role: the HR department. :-)
+
+<sub>*13 June 2022*. Received small grant (with dr. Ana Lopes from the Department of Social Science @ VU) for our interdisciplinary project “Reasons for online (dis)trust in sustainable initiatives” - financed by the Interdisciplinarity in the Digital Society VU grant. –>
 
 <sub>*18 Feb 2022*. Presented this [poster](https://myrthereuver.github.io/talks/PiaD_poster.pdf) - of my previously published [paper](https://aclanthology.org/2021.nlp4posimpact-1.6/) on NLP in news rec - at the [Network Institute's event on interdisciplinarity in the Digital Society](https://networkinstitute.org/iwds2021/). Paper was joint work with the project group [Rethinking News Algorithms](http://ccs.amsterdam/projects/rethinking-news-algorithms-nudging-users-towards-diverse-news-exposure/). Also, I networked at this network event! :-) 
 
