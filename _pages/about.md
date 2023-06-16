@@ -15,7 +15,7 @@ I hope to continue doing interesting research in the future, where my interests 
 
 # News 
 
-<sub> *12 June  - 1 Sept 2023* ["Computational Linguist & AI" summer intern](https://www.linkedin.com/feed/update/urn:li:activity:7074070873317470208/) in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland! 🍀
+<sub> *12 June  - 1 Sept 2023* [ "Computational Linguist & AI" summer intern](https://www.linkedin.com/feed/update/urn:li:activity:7074070873317470208/) in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland! 🍀
   
 <sub> *24 - 30 May 2023* At ICA23: Presented a paper on "Argument Mining to Analyze Reasons for (a Lack of) Trust in Sustainable Initiatives” - written with Ana Isabel Lopes (communication science) and student Alessandra Polimeno (CLTL). Also [participated in the pre-conference hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7070040569099497472/) with a case on few-shot detection of hypocrisy accusations in online sustainability debates, in an interdisciplinary team of PhDs. 
   
