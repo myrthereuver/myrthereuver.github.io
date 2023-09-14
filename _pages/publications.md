@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-#### You can find a possibly more updated list of articles on [my Google Scholar profile](https://scholar.google.com/citations?user=HeACvaEAAAAJ&hl=en) or [my Semantic Scholar profile](https://www.semanticscholar.org/author/Myrthe-Reuver/2081814526) 
+#### You can find a possibly more updated list of articles on [my Google Scholar](https://scholar.google.com/citations?user=HeACvaEAAAAJ&hl=en) or [Semantic Scholar profile](https://www.semanticscholar.org/author/Myrthe-Reuver/2081814526) 
 
 
 {% for post in site.main_conf reversed %}
