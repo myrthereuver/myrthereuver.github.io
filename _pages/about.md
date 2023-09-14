@@ -15,7 +15,7 @@ I hope to continue doing interesting research in the future, where my interests 
 
 # News 
 
-<sub> *19 Sept 2023* Our work ["𝘐𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘢𝘯𝘥 𝘌𝘷𝘢𝘭𝘶𝘢𝘵𝘪𝘯𝘨 𝘵𝘩𝘦 𝘋𝘦𝘵𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘍𝘳𝘢𝘨𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘕𝘦𝘸𝘴 𝘙𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘊𝘭𝘶𝘴𝘵𝘦𝘳𝘪𝘯𝘨 𝘰𝘧 𝘕𝘦𝘸𝘴 𝘚𝘵𝘰𝘳𝘺 𝘊𝘩𝘢𝘪𝘯𝘴"](https://arxiv.org/pdf/2309.06192.pdf) is accepted at NORMalize 2023, co-located with RecSys 2023! 🎉 This work, a summary [here](https://www.linkedin.com/feed/update/urn:li:activity:7107646271053516800/), is based on first-author Alessandra Polimeno's excellent master thesis work, supervised by me and co-authors Sanne Vrijenhoek and Antske Fokkens. I will present it on Sept 19 in the NORMalize workshop.
+<sub> *19 Sept 2023* Our work ["𝘐𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘢𝘯𝘥 𝘌𝘷𝘢𝘭𝘶𝘢𝘵𝘪𝘯𝘨 𝘵𝘩𝘦 𝘋𝘦𝘵𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘍𝘳𝘢𝘨𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘕𝘦𝘸𝘴 𝘙𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘊𝘭𝘶𝘴𝘵𝘦𝘳𝘪𝘯𝘨 𝘰𝘧 𝘕𝘦𝘸𝘴 𝘚𝘵𝘰𝘳𝘺 𝘊𝘩𝘢𝘪𝘯𝘴"](https://arxiv.org/pdf/2309.06192.pdf) is accepted at NORMalize 2023, co-located with RecSys 2023! 🎉 This work, a summary [here](https://www.linkedin.com/feed/update/urn:li:activity:7107646271053516800/), is based on first-author Alessandra Polimeno's excellent master thesis work, supervised by me and co-authors Sanne Vrijenhoek and Antske Fokkens. I will present it on Sept 19 in the [NORMalize workshop](https://sites.google.com/view/normalizeworkshop/home).
 
 <sub> *12 June  - 1 Sept 2023* [ "Computational Linguist & AI" summer intern](https://www.linkedin.com/feed/update/urn:li:activity:7074070873317470208/) in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland! 🍀
   
@@ -27,8 +27,6 @@ I hope to continue doing interesting research in the future, where my interests 
 Find Them (in the News)"](https://myrthereuver.github.io/talks/Groningen_talk.pdf), at the University of Groningen, with also [talks by fellow Argument Miners](https://twitter.com/myrthereuver/status/1629130401120747521) from CLTL! 
 
 <sub>*6 to 8 Feb 2023* Participated in the [2023 HPLT winter school on Large-Scale Language Modeling](http://wiki.nlpl.eu/index.php/Community/training) in Norway, and wrote a [blog post](https://myrthereuver.github.io/posts/2023/02/winterschool-responsible/) about my personal highlights.
-
-<sub> *11 Jan 2023* Interdisciplinary work-in-progress "Argument Mining to Analyze Reasons for (a Lack of) Trust in Sustainable Initiatives" (with Ana Isabel Lopes (communication science) and student Alessandra Polimeno (CLTL)) [got accepted](https://twitter.com/myrthereuver/status/1613308093915607040) for a talk at at ICA23 in May 2023.
 
 <sub> *21 - 25 November 2022* Invited participant to Lorentz workshop week ["Diverse News Recommenders: from concept to implementation"](https://www.lorentzcenter.nl/diverse-news-recommenders-from-concept-to-implementation.html), where I gave a [talk](https://myrthereuver.github.io/talks/LorentzCentre.pdf) on my own and master student Alessandra Polimeno's work, and participated in implementing NLP for diversity in news recommendation.
   
