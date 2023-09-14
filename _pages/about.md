@@ -32,7 +32,7 @@ Find Them (in the News)"](https://myrthereuver.github.io/talks/Groningen_talk.pd
 
 <sub> *21 - 25 November 2022* Invited participant to Lorentz workshop week ["Diverse News Recommenders: from concept to implementation"](https://www.lorentzcenter.nl/diverse-news-recommenders-from-concept-to-implementation.html), where I gave a [talk](https://myrthereuver.github.io/talks/LorentzCentre.pdf) on my own and master student Alessandra Polimeno's work, and participated in implementing NLP for diversity in news recommendation.
   
-<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) 🥇 the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings. 
+<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) 🥇 the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings. </sub>
 
 
 
