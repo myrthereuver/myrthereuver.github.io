@@ -14,6 +14,11 @@ author_profile: true
 
 ## Workshop Proceedings
 
+<sub>Alessandra Polimeno, **Myrthe Reuver**, Sanne Vrijenhoek and Antske Fokkens. “Improving and Evaluating the Detection of Fragmentation in News Recommendations with the Clustering of News Story Chains.” In Proceedings of NORMalize 2023: The First Workshop on the Normative Design and Evaluation of Recommender Systems, September 19,
+2023, co-located with the ACM Conference on Recommender Systems 2023 (RecSys 2023), Singapore 
+
+<sub>Michiel van der Meer, **Myrthe Reuver**, Urja Khurana, Lea Krause, and Selene Baez Santamaria. 2022. Will It Blend? Mixing Training Paradigms & Prompting for Argument Quality Prediction. In Proceedings of the 9th Workshop on Argument Mining, pages 95–103, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. [paper](https://aclanthology.org/2022.argmining-1.8.pdf) | [slides]() | **Shared Task Winning Contribution**
+
 <sub>**Myrthe Reuver**,  Verberne, S., Morante, R., & Fokkens, A. (2021, November). Is Stance Detection Topic-Independent and Cross-topic Generalizable? - A Reproduction Study. In Proceedings of the 8th Workshop on Argument Mining (co-located with EMNLP 2021, Online and in the Dominican Republic) (pp. 46-56). [paper](https://aclanthology.org/2021.argmining-1.5.pdf) | [slides](https://myrthereuver.github.io/talks/Slides_ArgMiningstance.pdf)  | [video]()</sub>
 
 <sub> {**Myrthe Reuver**, Nicolas Mattis, Marijn Sax}, Suzan Verberne, Nava Tintarev, Natali Helberger, Judith Moeller, Sanne Vrijenhoek,  Antske Fokkens, Wouter van Atteveldt. (2021). “Are we human, or are we users? The role of natural language processing in human-centric news recommenders that nudge users to diverse content’. In: Proceedings of the 1st Workshop on NLP for Positive Impact (co-located at ACL-IJCNLP 2021, Online). Association of Computational Linguistics, p. 47–59.
@@ -22,6 +27,7 @@ author_profile: true
 <sub>**Myrthe Reuver**, Antske Fokkens, Suzan Verberne. (2021). “No NLP Task Should be an Island: Multi-disciplinarity for Diversity in News Recommender Systems’ In: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 45–55.
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.7.pdf) |
 [poster](https://myrthereuver.github.io/talks/Reuver_NoTaskIsland%20(3).pdf)</sub>
+
 
 ## Reports (not peer reviewed)
 
