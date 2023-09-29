@@ -14,7 +14,7 @@ My specialization is specifically in Computational Argumentation or Argument Min
 Before my PhD, I completed the Research Master's programme "Linguistics and Communication Sciences" (*cum laude + with Honours*) at Radboud University in Nijmegen and the MSc programme "Cognitive Science and Artificial Intelligence" (*with distinction*) at Tilburg University in Tilburg. I also was a proud co-founder and editor-in-chief of Radboud's [student linguistics journal RU:ts](https://www.facebook.com/RUtsJournal/), and enjoy teaching: I was TA on Information Science during my MA and have taught 'Programming in Python' as well as a research seminar on Argument Mining during my PhD. You can download my full CV [here](/CV_now.pdf). 
 
 I hope to continue doing interesting research in the future, where my interests lie in projects concerning **the reliability and quality of online information and
-debate, societally and scientifically responsible AI, and interdisciplinarity**! 
+debate, societally responsible AI, meta-scientific discussions about scientific quality and methodology within and outside NLP, and interdisciplinarity**! 
 
 Want to know more about any of my current or past projects? Ask me through email, [LinkedIn](https://www.linkedin.com/in/myrthe-reuver-31624083/), or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
 
