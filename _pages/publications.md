@@ -59,6 +59,8 @@ author_profile: true
 [paper](https://neerlandistiek.nl/2019/10/hoe-een-computer-broodjeaapverhalen-leert-categoriseren/) |
 [code/demo](https://myrthereuver.github.io/UrbanLegendCategorizer/)</sub>
 
+<sub> **Myrthe Reuver**. (2019). Vlog for research week ``ICT with Industry". [video](https://www.youtube.com/watch?v=-m92LxE5hQ4).
+
 ## Master Theses 
 
 <sub>**Myrthe Reuver**. (2020). FINDING THE SMOKE SIGNAL: Smoking Status Classification with a Weakly Supervised Paradigm in Sparsely Labelled Dutch Free Text in Electronic Medical Records. Thesis. Research Master of Arts (ReMa) in Linguistics & Communication Sciences. Radboud University Nijmegen.
