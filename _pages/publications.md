@@ -48,8 +48,9 @@ author_profile: true
 
 <sub> **Myrthe Reuver** (2022) Summary & Book Review of "Linguistics for the Age of AI". In: The Linguist List 33.135. [paper](https://linguistlist.org/issues/33/33-135/)</sub>
 
-
 ## Popular Science 
+
+<sub>**Myrthe Reuver**, "Debatten over Abortus om te Leren over Kernenergie". DIXIT tijdschrift over taal- en spraaktechnologie, jaargang 19. Page 16-17. [magazine](https://notas.nl/dixit/dixit_2022_tst_en_big-models.pdf})</sub>
 
 <sub>**Myrthe Reuver**, Nicolas Mattis. (2020) “Hackers of Science: Lessons from interdisciplinary science in a Hackathon” Socializing Science, blog website.
 [paper](https://socializingsciencevu.com/2021/03/02/hackers-of-science-lessons-from-interdisciplinary-science-in-a-hackathon/) </sub>
