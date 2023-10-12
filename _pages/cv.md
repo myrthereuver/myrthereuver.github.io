@@ -15,34 +15,38 @@ redirect_from:
 
 Education
 ======
-* research MA in Linguistics and Communication Sciences, Radboud University, 2017-2020
-  - certificate: MA Honours Programme, 1-year think tank project on "Thinking Machines in Healthcare"
+* Research MA in Linguistics and Communication Sciences, Radboud University, 2017-2020
+  - MA Honours Programme, 1-year think tank project on "Thinking Machines in Healthcare"
   - Thesis: "Smoking Status Classification with a Weakly Supervised Paradigm in Sparsely Labelled Dutch Free Text in Electronic Medical Records"
-  - Graduated cum laude (GPA: 8.3/10)
+  - Graduated cum laude 
 * MSc in Cognitive Science & Artificial Intelligence, Tilburg University, 2018-2020
-   - Thesis: "What Kind of Emergency? Providing Complaint Labels for Dutch Short Clinical Texts with Supervised & Explainable Machine Learning"
-   - Graduated with distinction (GPA: 7.9/10)
+   - Thesis: "What Kind of Emergency? Providing Complaint Labels for Dutch Short Clinical Texts"
+   - Graduated with distinction 
 * B.A. in English Language and Culture, specialization Linguistics, Radboud University (2014-2017)
-  - certificate: BA Honours Programme, 2-year Text Mining Research project
-  - Graduated cum laude (GPA: 8.6/10)
+  - BA Honours Programme, 2-year Text Mining Research project
+  - Graduated cum laude 
 
 Work experience
 ======
 
 * 2020 - current: PhD Candidate "Diversity in News Recommender Systems"
-  - Free University Amsterdam (VU)
-  - using natural language processing methods (especially language models) to measure diversity in topics and/or viewpoints in the news.
+  - Vrije Universiteit Amsterdam (VU)
+  - natural language processing methods (especially language models) to measure diversity in topics and/or viewpoints in the news.
+ 
+* June - August 2023: Summer Intern 
+  - LinkedIn (Dublin, Ireland), Content & Creator AI Team
+  - Short research project with generative models to improve the LinkedIn experience
 
 * 2018-2020: Teaching Assistant (TA) Information Science
   - Radboud University
   - Duties included: Lecturing, preparing exercises, assisting in design of syllabus and course.
   - Supervisor: Prof. dr. Martha Larson, dr. Hans van Halteren
 
-* Dec 2019 - Sept 2020: Graduation projects in medical/clinical NLP
+* Dec 2019 - Sept 2020: Research Intern Clinical NLP
   - IT company Topicus Healthcare, Deventer
   - Company Supervisor: Jeroen Kuijpers
   
-* Jan 2019 - Sep 2019: Research Internship
+* Jan 2019 - Sep 2019: Research Intern 
   - Research project on automatic classification of Dutch urban legends
   - Meertens Institute, Amsterdam
   - Supervisor: prof. dr. Antal van den Bosch & prof. dr. Theo Meder
@@ -52,7 +56,7 @@ Work experience
   
 Skills
 ======
-* Python (including scikit-learn)
+* Python (including scikit-learn, huggingface Transformers)
 * Work with command line tools, unix commands & remote servers
 * Academic Writing
 * Natural Language Processing, Text Mining
