@@ -34,7 +34,7 @@ Work experience
   - natural language processing methods (especially language models) to measure diversity in topics and/or viewpoints in the news.
  
 * June - August 2023: Summer Intern 
-  - LinkedIn (Dublin, Ireland), Content & Creator AI Team
+  - LinkedIn (Dublin, Ireland), Content & Creator AI Linguist Team
   - Short research project with generative models to improve the LinkedIn experience
 
 * 2018-2020: Teaching Assistant (TA) Information Science
