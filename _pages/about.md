@@ -29,8 +29,6 @@ Want to know more about any of my current or past projects? Ask me through email
 <sub> *12 June  - 1 Sept 2023* [ "Computational Linguist & AI" summer intern](https://www.linkedin.com/feed/update/urn:li:activity:7074070873317470208/) in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland! 🍀
   
 <sub> *24 - 30 May 2023* At ICA23: Presented a paper on "Argument Mining to Analyze Reasons for (a Lack of) Trust in Sustainable Initiatives” - written with Ana Isabel Lopes (communication science) and student Alessandra Polimeno (CLTL). Also [participated in the pre-conference hackathon](https://www.linkedin.com/feed/update/urn:li:activity:7070040569099497472/) with a case on few-shot detection of hypocrisy accusations in online sustainability debates, in an interdisciplinary team of PhDs. 
-  
-<sub> *4 May 2023* Participated in the CLTL hackathon on generative models - in an excellent team with fellow PhDs Urja Khurana and Jonathan Kamp and MA student Swarupa Hardikar. We investigated a case study involving consistency in multi-lingual and multi-cultural settings, including computational subjective argumentation. 
 
 <sub> *24 Feb 2023* Invited for a short talk, ["Cross-topic Stances and How to
 Find Them (in the News)"](https://myrthereuver.github.io/talks/Groningen_talk.pdf), at the University of Groningen, with also [talks by fellow Argument Miners](https://twitter.com/myrthereuver/status/1629130401120747521) from CLTL! 
