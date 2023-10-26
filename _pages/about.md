@@ -16,7 +16,7 @@ Before my PhD, I completed the Research Master's programme "Linguistics and Comm
 I hope to continue doing interesting research in the future, where my interests are (but are not limited to): \
 **-online information, argumentation, and debate**, \
 **-societally responsible AI**, \
-**-meta-scientific discussions on scientific norms and methodology within and outside NLP**, \
+**-meta-science: scientific norms and methodology within and outside NLP**, \
 **-and interdisciplinarity**! 
 
 Want to know more about any of my current or past projects? Ask me through email, [LinkedIn](https://www.linkedin.com/in/myrthe-reuver-31624083/), or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
