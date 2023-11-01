@@ -23,6 +23,8 @@ Want to know more about any of my current or past projects? Ask me through email
 
 # News 
 
+<sub> *1 November 2023* Gave a [guest lecture](https://myrthereuver.github.io/talks/GuestLecture_TextMiningLeiden2023.pdf) about my research on stance detection, diversity in news recommendation, and evaluation in the course "Text Mining" in the MSc Computer Science at Leiden University.
+
 <sub> *25 Oct 2023* Participated in the informal "Digital Society" symposium at Utrecht University, where several PhDs doing work on interdisciplinary NLP with arguments, viewpoints, and deliberation presented their current in-progress work, including [Michiel van der Meer](https://liacs.leidenuniv.nl/~meermtvander/), [Cedric Waterschoot](https://pure.knaw.nl/portal/nl/persons/cedric-waterschoot), [Anna Wegmann](https://annawegmann.github.io/), [Liesje van der Linden](https://www.tilburguniversity.edu/nl/medewerkers/l-c-a-vdrlinden) and [Charlotte Vaassen](https://research.vu.nl/en/persons/charlotte-elisabeth-vaassen). This was a lot of fun! 
 
 <sub> *5 Oct 2023* Guest on the LinkedIn Women in Tech [podcast episode](https://www.linkedin.com/feed/update/urn:li:activity:7115754255990312960/) about tech internships and my summer internship this year, with my LinkedIn mentor Isabell Seeger. Content: why I wanted to do an internship, how I experienced the planning and applying for it, as well as the internship itself! 💫 
