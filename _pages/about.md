@@ -22,8 +22,6 @@ I hope to continue doing interesting research with societal impact, where my int
 Want to know more about any of my current or past projects? Ask me through email, [LinkedIn](https://www.linkedin.com/in/myrthe-reuver-31624083/), or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
 
 # News 
-<sub> [news archive](https://myrthereuver.github.io/news_archive/) has earlier talks, events, etc.
-
 <sub> *1 November 2023* Gave a [Guest lecture](https://myrthereuver.github.io/talks/GuestLecture_TextMiningLeiden2023.pdf) about my research on stance detection, diversity in news recommendation, and evaluation in the course "Text Mining" in the MSc Computer Science at Leiden University.
 
 <sub> *25 Oct 2023* Participated in the informal "Digital Society" symposium at Utrecht University, where several PhDs doing work on interdisciplinary NLP with arguments, viewpoints, and deliberation presented their current in-progress work, including [Michiel van der Meer](https://liacs.leidenuniv.nl/~meermtvander/), [Cedric Waterschoot](https://pure.knaw.nl/portal/nl/persons/cedric-waterschoot), [Anna Wegmann](https://annawegmann.github.io/), [Liesje van der Linden](https://www.tilburguniversity.edu/nl/medewerkers/l-c-a-vdrlinden) and [Charlotte Vaassen](https://research.vu.nl/en/persons/charlotte-elisabeth-vaassen). This was a lot of fun! 
@@ -41,6 +39,7 @@ Find Them (in the News)"](https://myrthereuver.github.io/talks/Groningen_talk.pd
 
 <sub>*6 to 8 Feb 2023* Participated in the [2023 HPLT winter school on Large-Scale Language Modeling](http://wiki.nlpl.eu/index.php/Community/training) in Norway, and wrote a [blog post](https://myrthereuver.github.io/posts/2023/02/winterschool-responsible/) about my personal highlights.
 
+<sub> --> [news archive](https://myrthereuver.github.io/news_archive/) has earlier talks, events, etc.
 
 
 
