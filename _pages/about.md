@@ -22,6 +22,7 @@ I hope to continue doing interesting research with societal impact, where my int
 Want to know more about any of my current or past projects? Ask me through email, [LinkedIn](https://www.linkedin.com/in/myrthe-reuver-31624083/), or [Twitter](https://twitter.com/myrthereuver). I'm always interested in new ideas or opportunities, so please contact me if you have any! 😁
 
 # News 
+<sub> [news archive](https://myrthereuver.github.io/news_archive/) has earlier talks, events, etc.
 
 <sub> *1 November 2023* Gave a [Guest lecture](https://myrthereuver.github.io/talks/GuestLecture_TextMiningLeiden2023.pdf) about my research on stance detection, diversity in news recommendation, and evaluation in the course "Text Mining" in the MSc Computer Science at Leiden University.
 
