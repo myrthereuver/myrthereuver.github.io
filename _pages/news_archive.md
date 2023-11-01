@@ -7,6 +7,10 @@ author_profile: true
 
 <!-- # News archive -->
 
+<sub> *21 - 25 November 2022* Invited participant to Lorentz workshop week ["Diverse News Recommenders: from concept to implementation"](https://www.lorentzcenter.nl/diverse-news-recommenders-from-concept-to-implementation.html), where I gave a [talk](https://myrthereuver.github.io/talks/LorentzCentre.pdf) on my own and master student Alessandra Polimeno's work, and participated in implementing NLP for diversity in news recommendation.
+  
+<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) 🥇 the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings. </sub>
+
 
 <sub> *24 November 2022* Gave a [talk](https://myrthereuver.github.io/talks/PreregisteringNLP.pdf) at the Open Science Coffee Leiden on Preregistration in NLP. I shared some of my own recent experiences and discussed preregistration with researchers from other disciplines.
 
@@ -14,7 +18,7 @@ author_profile: true
 
 <sub> *Sept/Oct 2022* Teaching: taught the course Research Seminar on Argument Mining in the ReMa Human Language Technology at the Free University of Amsterdam, and gave a [guest lecture](https://myrthereuver.github.io/talks/GuestLecture_Leiden.pdf) on stance detection in the Text Mining course (part of the MSc Computer Science) at Leiden University.
 
-<!-- <sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) 🥇 the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings.  -->
+<sub>*12 August 2022.* We (a team of CLTL PhDs) [won](https://twitter.com/myrthereuver/status/1558126896495427588?s=20&t=xoexA1tYJAcQYQs-ahmtfw) 🥇 the [shared task](https://phhei.github.io/ArgsValidNovel/) of the [9th Argument Mining Workshop](https://argmining-org.github.io/2022/index.html#about) at COLING 2022. We combined inter-task-training on NLI, contrastive learning, & prompting for Argument Novelty and Validity prediction. Our [paper](https://aclanthology.org/2022.argmining-1.8/) was also published in the Proceedings. 
 
 <sub>*8 - 19 August 2022.* Attended the [ESSLLI summer school](https://2022.esslli.eu/) in Galway, Ireland in the summer of 2022, where I followed courses on Argument Mining, Language Resource Development, and Vector-Based Semantics.
 
@@ -44,9 +48,7 @@ author_profile: true
 
 <sub>*29 Oct 2021* Our project team on diversity in news recommendation organized a workshop for stakeholders (News organizations and policy makers) at [the University of Amsterdam.](https://twitter.com/judith_moeller/status/1454080421482967045). 
 
-
 <sub>*27 Sept 2021 - 1 Oct 2021*. On-Site Student Volunteer at RecSys2021, a hybrid conference in Amsterdam. I made new connections, saw some collaborators in 3D for the first time, and  [often tweeted relevant or interesting talks](https://twitter.com/myrthereuver/status/1443567135616241670).
-
 
 <sub>*16 Sept 2021*. Published [my first blog post](https://myrthereuver.github.io/posts/2021/09/first-blog/), about my one-year anniversary as a PhD Candidate and 5 things I learned in my first year!
 
