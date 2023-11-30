@@ -12,7 +12,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Workshop Proceedings
+## Papers
 
 <sub>Alessandra Polimeno, **Myrthe Reuver**, Sanne Vrijenhoek and Antske Fokkens. (2023). “Improving and Evaluating the Detection of Fragmentation in News Recommendations with the Clustering of News Story Chains.” In Proceedings of NORMalize 2023: The First Workshop on the Normative Design and Evaluation of Recommender Systems, September 19,
 2023, co-located with the ACM Conference on Recommender Systems 2023 (RecSys 2023), Singapore. [paper](https://arxiv.org/pdf/2309.06192.pdf) | [slides]()
