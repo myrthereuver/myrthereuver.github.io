@@ -23,7 +23,7 @@ Want to know more about any of my current or past projects? Ask me through email
 
 # News 
 
-<sub> *4 December 2023* Gave an invited [talk](https://myrthereuver.github.io/talks/Stuttgart_Talk.pptx.pdf) on "Democratically healthy news recommendation: aligning NLP with society, theory, and evaluation" at the IMS Institute University of Stuttgart.
+<sub> *4 December 2023* Gave an invited [talk](https://myrthereuver.github.io/talks/Stuttgart_Talk.pptx.pdf) on my PhD research so far: "Democratically healthy news recommendation: aligning NLP with society, theory, and evaluation", at the IMS Institute at the University of Stuttgart.
 
 <sub> *1 November 2023* Gave a [Guest lecture](https://myrthereuver.github.io/talks/GuestLecture_TextMiningLeiden2023.pdf) about my research on stance detection, diversity in news recommendation, and evaluation in the course "Text Mining" in the MSc Computer Science at Leiden University.
 
