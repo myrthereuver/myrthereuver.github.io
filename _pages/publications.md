@@ -12,12 +12,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Workshop Proceedings
+## Papers
 
 <sub>Alessandra Polimeno, **Myrthe Reuver**, Sanne Vrijenhoek and Antske Fokkens. (2023). “Improving and Evaluating the Detection of Fragmentation in News Recommendations with the Clustering of News Story Chains.” In Proceedings of NORMalize 2023: The First Workshop on the Normative Design and Evaluation of Recommender Systems, September 19,
 2023, co-located with the ACM Conference on Recommender Systems 2023 (RecSys 2023), Singapore. [paper](https://arxiv.org/pdf/2309.06192.pdf) | [slides]()
 
-<sub>Michiel van der Meer, **Myrthe Reuver**, Urja Khurana, Lea Krause, and Selene Baez Santamaria. (2022). Will It Blend? Mixing Training Paradigms & Prompting for Argument Quality Prediction. In Proceedings of the 9th Workshop on Argument Mining, pages 95–103, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. [paper](https://aclanthology.org/2022.argmining-1.8.pdf) | [slides]() | ** 🥇 Shared Task Winning Contribution**
+<sub>Mariken van der Velden, **Myrthe Reuver**, Antske Fokkens, Felicia Loecherbach, Kasper Welbers, Wouter van Atteveldt. Whose Truth is it Anyway? An Experiment on Annotation Bias in Times of Factual Opinion Polarization. [preprint](https://osf.io/preprints/socarxiv/nd6yr/)</sub>
+
+<sub>Michiel van der Meer, **Myrthe Reuver**, Urja Khurana, Lea Krause, and Selene Baez Santamaria. (2022). Will It Blend? Mixing Training Paradigms & Prompting for Argument Quality Prediction. In Proceedings of the 9th Workshop on Argument Mining, pages 95–103, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. [paper](https://aclanthology.org/2022.argmining-1.8.pdf) | [slides]() | 🥇 **Shared Task Winning Contribution**
 
 <sub>**Myrthe Reuver**,  Verberne, S., Morante, R., & Fokkens, A. (2021). Is Stance Detection Topic-Independent and Cross-topic Generalizable? - A Reproduction Study. In Proceedings of the 8th Workshop on Argument Mining (co-located with EMNLP 2021, Online and in the Dominican Republic) (pp. 46-56). [paper](https://aclanthology.org/2021.argmining-1.5.pdf) | [slides](https://myrthereuver.github.io/talks/Slides_ArgMiningstance.pdf)  | [video]()</sub>
 
