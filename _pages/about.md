@@ -25,7 +25,7 @@ Want to know more about any of my current or past projects? Ask me through email
 
 <sub> *26 March 2024* Gave my [introduction talk](https://myrthereuver.github.io/talks/GESIS_welcome_talk.pdf) at GESIS about my research interests, past work, and also my funded research visit project at GESIS! 😃
 
-<sub> *15 March - 30 May 2024 * I will spend the spring semester as a Visiting Junior Researcher in the Computational Social Science department at GESIS in Cologne! I won a grant to work with professor Gabriella Lapesa, and I will research instruction-tuned models and their evaluation challenges for social science research. Exciting! 🤩
+<sub> *15 March - 30 May 2024* I will spend the spring semester as a Visiting Junior Researcher in the Computational Social Science department at GESIS in Cologne! I won a grant to work with professor Gabriella Lapesa, and I will research instruction-tuned models and their evaluation challenges for social science research. Exciting! 🤩
 
 <sub> *Feb 2024* My paper "Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study" was accepted to LREC-COLING 2024! Preprint coming soon.
 
