@@ -24,7 +24,7 @@ Want to know more about any of my current or past projects? Ask me through email
 # News 
 
 <sub> *6 May 2024* Presented work-in-progress (with co-authors Paulina Garcia-Corral, Avishai Green, Hendrik Meyer, Xiaoyue Yan, and Anke Stoll)
-about hypocrisy accusations in climate debates: [talk slides](https://myrthereuver.github.io/talks/CompText2024.pdf) at CompText, the conference on computational text analysis for and by social scientists, at the Vrije Universiteit Amsterdam. Also [wrote a short post of my highlights and reflection](https://www.linkedin.com/feed/update/urn:li:activity:7193147598986244096/) of the conference.
+about hypocrisy accusations in climate debates ([talk slides](https://myrthereuver.github.io/talks/CompText2024.pdf)) at CompText, the conference on computational text analysis for and by social scientists, at the Vrije Universiteit Amsterdam. Also [wrote a short post of my highlights and reflection](https://www.linkedin.com/feed/update/urn:li:activity:7193147598986244096/) of the conference.
 
 <sub> *15 March - 30 May 2024* I will spend the spring semester as a Visiting Junior Researcher in the Computational Social Science department at GESIS in Cologne! I won a grant to work with professor Gabriella Lapesa, and I will research instruction-tuned models and their evaluation challenges for social science research. Exciting! 🤩 Gave my [introduction talk](https://myrthereuver.github.io/talks/GESIS_welcome_talk.pdf) on March 26.
 
