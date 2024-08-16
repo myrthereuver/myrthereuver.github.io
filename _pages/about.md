@@ -25,6 +25,8 @@ Want to know more about any of my current or past projects? Ask me through email
 
 # News 
 
+<sub> *15 Augustus 2024*  The first result of my GESIS research visit is published! I had the pleasure of working with first author Maximilian Maurer, Julia Romberg, Negash Weldekiros, and Gabriella Lapesa on a complex shared task on 𝐝𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐚𝐧𝐝 𝐬𝐨𝐜𝐢𝐨-𝐜𝐮𝐥𝐭𝐮𝐫𝐚𝐥 𝐚𝐬𝐩𝐞𝐜𝐭𝐬 𝐢𝐧 𝐚𝐫𝐠𝐮𝐦𝐞𝐧𝐭 𝐫𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥. Our solution placed third 🥉 in this shared task (part of the Argument Mining workshop) at ACL 2024. For more information, read our [paper](https://aclanthology.org/2024.argmining-1.18/) or my [short summary](https://www.linkedin.com/feed/update/urn:li:activity:7229145346965225474/) of the paper and task - this task really connected to to many of my interests: diversity in recommendation and retrieval, argument mining, and socio-cultural context of NLP!
+
 <sub> *20-25 May, 2024* Presented a [poster](https://myrthereuver.github.io/talks/LREC_COLING24_poster.pdf) of our [paper](https://aclanthology.org/2024.lrec-main.809.pdf) "Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study" (with Suzan Verberne and Antske Fokkens) at LREC-COLING 2024 in Turin, Italy! Also wrote a [short post of highlights and reflection](https://www.linkedin.com/feed/update/urn:li:activity:7208511506190086146/) on the conference! 
 
 <sub> *17 May 2024* Gave an invited talk: "Connecting islands: aligning NLP with social science in research questions, tasks, and evaluation" at the Digital Humanities research group at research institute Fondazione Bruno Kessler in Trento, Italy. [Slides](https://myrthereuver.github.io/talks/Trento_talk.pdf)
