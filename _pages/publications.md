@@ -13,11 +13,16 @@ author_profile: true
 {% endfor %}
 
 ## Papers
+<sub>Paulina Garcia Corral, Avishai Green, Hendrik Meyer, Anke Stoll, Xiaoyue Yan, and **Myrthe Reuver**. 2024. A Few Hypocrites: Few-Shot Learning and Subtype Definitions for Detecting Hypocrisy Accusations in Online Climate Change Debates. In Proceedings of the 4th Workshop on Computational Linguistics for the Political and Social Sciences: Long and short papers, pages 45–60, Vienna, Austria. Association for Computational Linguistics. [paper](https://aclanthology.org/2024.cpss-1.4.pdf)
+  
+<sub>**Myrthe Reuver**, Alessandra Polimeno, Antske Fokkens, and Ana Isabel Lopes. 2024. Topic-specific social science theory in stance detection: a proposal and interdisciplinary pilot study on sustainability initiatives. In Proceedings of the 4th Workshop on Computational Linguistics for the Political and Social Sciences: Long and short papers, pages 101–111, Vienna, Austria. Association for Computational Linguistics. [paper](https://aclanthology.org/2024.cpss-1.8/)
+
+<sub>Maximilian Maurer, Julia Romberg, **Myrthe Reuver**, Negash Weldekiros, & Gabriella Lapesa (2024). Gesis-dsm at perpectivearg2024: A matter of style? socio-cultural differences in argumentation. In Proceedings of the 11th Workshop on Argument Mining (ArgMining 2024) (pp. 169-181). [paper](https://aclanthology.org/2024.argmining-1.18.pdf)
+  
+<sub>**Myrthe Reuver**, Suzan Verberne, & Antske Fokkens (2024). Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study. In: Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 9245-9260). [paper](https://aclanthology.org/2024.lrec-main.809.pdf)
 
 <sub>Alessandra Polimeno, **Myrthe Reuver**, Sanne Vrijenhoek and Antske Fokkens. (2023). “Improving and Evaluating the Detection of Fragmentation in News Recommendations with the Clustering of News Story Chains.” In Proceedings of NORMalize 2023: The First Workshop on the Normative Design and Evaluation of Recommender Systems, September 19,
 2023, co-located with the ACM Conference on Recommender Systems 2023 (RecSys 2023), Singapore. [paper](https://arxiv.org/pdf/2309.06192.pdf) | [slides]()
-
-<sub>Mariken van der Velden, **Myrthe Reuver**, Antske Fokkens, Felicia Loecherbach, Kasper Welbers, Wouter van Atteveldt. Whose Truth is it Anyway? An Experiment on Annotation Bias in Times of Factual Opinion Polarization. [preprint](https://osf.io/preprints/socarxiv/nd6yr/)</sub>
 
 <sub>Michiel van der Meer, **Myrthe Reuver**, Urja Khurana, Lea Krause, and Selene Baez Santamaria. (2022). Will It Blend? Mixing Training Paradigms & Prompting for Argument Quality Prediction. In Proceedings of the 9th Workshop on Argument Mining, pages 95–103, Online and in Gyeongju, Republic of Korea. International Conference on Computational Linguistics. [paper](https://aclanthology.org/2022.argmining-1.8.pdf) | [slides]() | 🥇 **Shared Task Winning Contribution**
 
@@ -31,7 +36,9 @@ author_profile: true
 [poster](https://myrthereuver.github.io/talks/Reuver_NoTaskIsland%20(3).pdf)</sub>
 
 
-## Reports (not peer reviewed)
+## Reports and Preprints (not peer reviewed)
+
+<sub>Mariken van der Velden, **Myrthe Reuver**, Antske Fokkens, Felicia Loecherbach, Kasper Welbers, Wouter van Atteveldt. Whose Truth is it Anyway? An Experiment on Annotation Bias in Times of Factual Opinion Polarization. [preprint](https://osf.io/preprints/socarxiv/nd6yr/)</sub>
 
 <sub>**Myrthe Reuver**, Nicolas Mattis. (2021). “Implementing Evaluation Metrics Based on Theories of Democracy in News Comment Recommendation (Hackathon Report)” In: Proceedings of the EACL Hackashop on News Media Content Analysis and Automated Report Generation (co-located at EACL 2021, online). Association of Computational Linguistics, p. 134–139.
 [paper](https://www.aclweb.org/anthology/2021.hackashop-1.19.pdf) |
