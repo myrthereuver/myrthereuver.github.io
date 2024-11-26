@@ -17,7 +17,7 @@ author_profile: true
   
 <sub>**Myrthe Reuver**, Alessandra Polimeno, Antske Fokkens, and Ana Isabel Lopes (2024). Topic-specific social science theory in stance detection: a proposal and interdisciplinary pilot study on sustainability initiatives. In Proceedings of the 4th Workshop on Computational Linguistics for the Political and Social Sciences: Long and short papers, pages 101–111, Vienna, Austria. Association for Computational Linguistics. [paper](https://aclanthology.org/2024.cpss-1.8/)
 
-<sub>Maximilian Maurer, Julia Romberg, **Myrthe Reuver**, Negash Weldekiros, & Gabriella Lapesa (2024). Gesis-dsm at perpectivearg2024: A matter of style? socio-cultural differences in argumentation. In Proceedings of the 11th Workshop on Argument Mining (ArgMining 2024) (pp. 169-181). [paper](https://aclanthology.org/2024.argmining-1.18.pdf)
+<sub>Maximilian Maurer, Julia Romberg, **Myrthe Reuver**, Negash Weldekiros, & Gabriella Lapesa (2024). Gesis-dsm at perpectivearg2024: A matter of style? socio-cultural differences in argumentation. In Proceedings of the 11th Workshop on Argument Mining (ArgMining 2024) (pp. 169-181). [paper](https://aclanthology.org/2024.argmining-1.18.pdf) | 🥉**Shared Task Third Place**
   
 <sub>**Myrthe Reuver**, Suzan Verberne, & Antske Fokkens (2024). Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study. In: Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 9245-9260). [paper](https://aclanthology.org/2024.lrec-main.809.pdf)
 
