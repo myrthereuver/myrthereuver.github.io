@@ -7,6 +7,23 @@ author_profile: true
 
 <!-- # News archive -->
 
+<sub> *20-25 May, 2024* Presented a [poster](https://myrthereuver.github.io/talks/LREC_COLING24_poster.pdf) of our [paper](https://aclanthology.org/2024.lrec-main.809.pdf) "Investigating the Robustness of Modelling Decisions for Few-Shot Cross-Topic Stance Detection: A Preregistered Study" (with Suzan Verberne and Antske Fokkens) at LREC-COLING 2024 in Turin, Italy! Also wrote a [short post of highlights and reflection](https://www.linkedin.com/feed/update/urn:li:activity:7208511506190086146/) on the conference! 
+
+<sub> *17 May 2024* Gave an invited talk: "Connecting islands: aligning NLP with social science in research questions, tasks, and evaluation" at the Digital Humanities research group at research institute Fondazione Bruno Kessler in Trento, Italy. [Slides](https://myrthereuver.github.io/talks/Trento_talk.pdf)
+
+<sub> *6 May 2024* Presented work-in-progress (with co-authors Paulina Garcia-Corral, Avishai Green, Hendrik Meyer, Xiaoyue Yan, and Anke Stoll)
+about hypocrisy accusations in climate debates ([talk slides](https://myrthereuver.github.io/talks/CompText2024.pdf)) at CompText, the conference on computational text analysis for and by social scientists, at the Vrije Universiteit Amsterdam. Also [wrote a short post of my highlights and reflection](https://www.linkedin.com/feed/update/urn:li:activity:7193147598986244096/) of the conference.
+
+<sub> *15 March - 30 May 2024* I spent the spring semester as a Visiting Junior Researcher in the Computational Social Science department at GESIS in Cologne! I won a grant to work with professor Gabriella Lapesa, and I will research instruction-tuned models and their evaluation challenges for social science research. Exciting! 🤩 Gave my [introduction talk](https://myrthereuver.github.io/talks/GESIS_welcome_talk.pdf) on March 26.
+
+<sub> *4 December 2023* Gave an invited [talk](https://myrthereuver.github.io/talks/Stuttgart_Talk.pptx.pdf) on my PhD research so far: "Democratically healthy news recommendation: aligning NLP with society, theory, and evaluation", at the IMS Institute at the University of Stuttgart.
+
+<sub> *1 November 2023* Gave a [Guest lecture](https://myrthereuver.github.io/talks/GuestLecture_TextMiningLeiden2023.pdf) about my research on stance detection, diversity in news recommendation, and evaluation in the course "Text Mining" in the MSc Computer Science at Leiden University.
+
+<sub> *25 Oct 2023* Participated in the informal "Digital Society" symposium at Utrecht University, where several PhDs doing work on interdisciplinary NLP with arguments, viewpoints, and deliberation presented their current in-progress work, including [Michiel van der Meer](https://liacs.leidenuniv.nl/~meermtvander/), [Cedric Waterschoot](https://pure.knaw.nl/portal/nl/persons/cedric-waterschoot), [Anna Wegmann](https://annawegmann.github.io/), [Liesje van der Linden](https://www.tilburguniversity.edu/nl/medewerkers/l-c-a-vdrlinden) and [Charlotte Vaassen](https://research.vu.nl/en/persons/charlotte-elisabeth-vaassen). This was a lot of fun! 
+
+<sub> *5 Oct 2023* Guest on the LinkedIn Women in Tech [podcast episode](https://www.linkedin.com/feed/update/urn:li:activity:7115754255990312960/) about tech internships and my summer internship this year, with my LinkedIn mentor Isabell Seeger. Content: why I wanted to do an internship, how I experienced the planning and applying for it, as well as the internship itself! 💫 
+
 <sub> *19 Sept 2023* Our work ["𝘐𝘮𝘱𝘳𝘰𝘷𝘪𝘯𝘨 𝘢𝘯𝘥 𝘌𝘷𝘢𝘭𝘶𝘢𝘵𝘪𝘯𝘨 𝘵𝘩𝘦 𝘋𝘦𝘵𝘦𝘤𝘵𝘪𝘰𝘯 𝘰𝘧 𝘍𝘳𝘢𝘨𝘮𝘦𝘯𝘵𝘢𝘵𝘪𝘰𝘯 𝘪𝘯 𝘕𝘦𝘸𝘴 𝘙𝘦𝘤𝘰𝘮𝘮𝘦𝘯𝘥𝘢𝘵𝘪𝘰𝘯𝘴 𝘸𝘪𝘵𝘩 𝘵𝘩𝘦 𝘊𝘭𝘶𝘴𝘵𝘦𝘳𝘪𝘯𝘨 𝘰𝘧 𝘕𝘦𝘸𝘴 𝘚𝘵𝘰𝘳𝘺 𝘊𝘩𝘢𝘪𝘯𝘴"](https://arxiv.org/pdf/2309.06192.pdf) is accepted at NORMalize 2023, co-located with RecSys 2023! 🎉 This work, a summary [here](https://www.linkedin.com/feed/update/urn:li:activity:7107646271053516800/), is based on first-author Alessandra Polimeno's excellent master thesis work, supervised by me and co-authors Sanne Vrijenhoek and Antske Fokkens. I will present it on Sept 19 in the [NORMalize workshop](https://sites.google.com/view/normalizeworkshop/home).
 
 <sub> *12 June  - 1 Sept 2023* [ "Computational Linguist & AI" summer intern](https://www.linkedin.com/feed/update/urn:li:activity:7074070873317470208/) in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland! 🍀
