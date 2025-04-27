@@ -25,7 +25,10 @@ Want to know more about any of my current or past projects? Ask me through email
 
 # News 
 
-<sub> *23 January 2025* Our paper, "Tell Me What You Know About Sexism: Expert-LLM Interaction Strategies and Co-Created Definitions for Zero-Shot Sexism Detection" (with Indira Sen, Matteo Melis, and Gabriella Lapesa) was accepted into the Findings of NAACL 2025! This was the culmination of my research visit at the Data Science methods team at GESIS in Cologne! Preprint coming soon. 
+<sub>*25 April 2025* Super fun to be invited for a talk at Anna Rogers' lab at IT University Copenhagen! 😁 My talk "A PUZZLE OF PERSPECTIVES: 
+how to align language technology with social science and democratic goals" described how most of my projects (combined in my dissertation) show a connection between NLP, social science, real-world problems, also featuring my most recent paper at Findings of NAACL! [Slides](https://myrthereuver.github.io/talks/Clean_Copenhagen_25April.pptx.pdf)
+
+<sub> *23 January 2025* Our paper, "Tell Me What You Know About Sexism: Expert-LLM Interaction Strategies and Co-Created Definitions for Zero-Shot Sexism Detection" (with Indira Sen, Matteo Melis, and Gabriella Lapesa) was accepted into the Findings of NAACL 2025! This was the culmination of my research visit at the Data Science methods team at GESIS in Cologne! [Preprint](https://arxiv.org/pdf/2504.15392)
 
 <sub> *6 January 2025* I have started as an NLP researcher and engineer at Populytics! Populytics is a spin-off from Delft University of Technology that provides analyses of citizens' opinions about policy dilemmas, working with all kinds of Dutch local and national governments for research projects that offer citizens a direct participation in democratic processes. I use my skills in NLP research and opinion mining to support Populytics's social and political science researchers.
 
