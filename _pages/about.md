@@ -11,19 +11,17 @@ Hello world! ⚡ I am Myrthe Reuver, a researcher specializing in computational 
 
 I defended my [dissertation](https://research.vu.nl/ws/portalfiles/portal/422855180/182550reuverprintversiez%20-%20687e2c1a1441d.pdf) titled "A Puzzle of Perspectives: Interdisciplinary Language Technology for Responsible News Recommendation" at the Vrije Universiteit Amsterdam in September 2025. My research connects computational argumentation with AI, social science, real-world problems. The main focus was polarization in online news and debate. See this [video](https://www.youtube.com/watch?v=izR19B1T-fA) of my defense starting with a short talk. 
 
-I was supervised by [prof. dr. Antske Fokkens](http://wordpress.let.vupr.nl/antske/) at the Computational Linguistics and Text Mining Lab at the VU and [prof. dr. Suzan Verberne](http://liacs.leidenuniv.nl/~verbernes/) of the Text Mining group at LIACS, Leiden University.
-
 During my PhD, I...
 - 📝 published and presented 6 research papers on argument mining, responsible AI, and NLP in recommender systems at world-leading conferences and workshops (COLING, NAACL, Argument Mining), and co-authored 5 others as collaborator.
 - in a multidisciplinary team, won first place 🥇 at a hackathon on diversity in recommender systems for the Dutch public broadcaster + in a team of fellow VU PhDs won first place 🥇 at the 2023 Argument Mining shared task on argument quality prediction.
 - 💰 obtained grants, including a Visiting Junior Researcher grant for a fully funded visit at the Data Science Methods group at GESIS Leibniz Institute for the Social Sciences. This led to a paper on sexism detection in Findings of NAACL.
 - 👩‍💻 succesfully completed an internship in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland in the summer of 2023.
-- 💬 given invited talks about my research at several international research labs and institutes, including IT University Copenhagen, MilaNLP Lab @ Bocconi University, FBK in Trento, and IMS at Stuttgart University.
+- 💬 given invited talks about my research at several international research labs and institutes, including MilaNLP Lab @ Bocconi University, FBK in Trento, and IMS at Stuttgart University.
 - Interested in more details? You can download my full academic CV [here](/CV_now.pdf). 
 
-Currently, I am working as an AI developer at [Stedin](https://www.stedin.net/), an energy grid provider in the Netherlands, where I apply (generative) AI solutions that help the green energy transition on Stedin's complex and multimodal data. This includes Retrieval Augmented Generation (RAG) chatbots and applied research into responsible AI development, and learning a lot about AI and software development in production.
+Currently, I am working as an AI developer at [Stedin](https://www.stedin.net/), an energy grid provider in the Netherlands, where I apply (generative) AI solutions that help the green energy transition. This includes Retrieval Augmented Generation (RAG) chatbots and applied research into responsible AI development, and learning a lot about AI and software development in production.
 
-Before this and while finishing up my PhD, I worked at [Populytics](https://populytics.nl/), a spin-off from Delft University of Technology that provides analyses of citizens' opinions about policy dilemmas. I applied argument mining with local and small language models to increase the impact of citizens' opinions on policy. 🗣📢 My work featured in reports for local and national governments, including the Ministry of Climate and green growth.
+Before this and while finishing up my PhD, I worked at [Populytics](https://populytics.nl/), a spin-off from Delft University of Technology that provides analyses of citizens' opinions about policy dilemmas. I applied argument mining with local and small language models to increase the impact of citizens' opinions on policy. 🗣📢 My work, including visualizations of model outputs, featured in reports for local and national governments, including the Ministry of Climate and Green Growth.
 
 I hope to continue doing interesting research with societal impact, where my interests are (but are not limited to): \
 **-online information, argumentation, and debate**; \
