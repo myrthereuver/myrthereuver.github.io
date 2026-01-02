@@ -13,10 +13,9 @@ I defended my [dissertation](https://research.vu.nl/ws/portalfiles/portal/422855
 
 During my PhD, I...
 - 📝 published and presented 6 research papers on argument mining, responsible AI, and NLP in recommender systems at world-leading conferences and workshops (COLING, NAACL, Argument Mining), and co-authored 5 others as collaborator.
-- with fellow PhDs, won first place 🥇 at a hackathon on diversity in recommender systems and 🥇 at the 2023 Argument Mining shared task on Argument Quality Prediction.
 - 💰 obtained grants, including a Visiting Junior Researcher grant for a fully funded visit at the Data Science Methods group at GESIS Leibniz Institute for the Social Sciences. This led to a paper on sexism detection in Findings of NAACL.
 - 👩‍💻 succesfully completed an internship in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland in the summer of 2023.
-- 💬 given invited talks about my research at several international institutes, including MilaNLP Lab @ Bocconi University, FBK in Trento, and IMS at Stuttgart University.
+- 💬 gave invited talks about my research at several international institutes, including MilaNLP Lab @ Bocconi University, FBK in Trento, and IMS at Stuttgart University.
 - Interested in more details? You can download my full academic CV [here](/CV_now.pdf). 
 
 Currently, I am working as an AI developer at [Stedin](https://www.stedin.net/), an energy grid provider in the Netherlands, where I apply (generative) AI solutions that help the green energy transition. This includes Retrieval Augmented Generation (RAG) chatbots and applied research into responsible AI development, and learning a lot about AI and software development in production.
