@@ -18,11 +18,11 @@ During my PhD, I...
 - 💬 gave invited talks about my research at several international institutes, including MilaNLP Lab @ Bocconi University, FBK in Trento, and IMS at Stuttgart University.
 - Interested in more details? You can download my full academic CV [here](/CV_now.pdf). 
 
-Currently, I am working as an AI developer at [Stedin](https://www.stedin.net/), an energy grid provider ⚡, applying (generative) AI solutions that help the green energy transition. This includes Retrieval Augmented Generation (RAG) chatbots and applied research into responsible AI development, and learning a lot about AI and software development in production.
+Currently, I work as an AI developer at [Stedin](https://www.stedin.net/), an energy grid provider ⚡, applying (generative) AI solutions that help the green energy transition. This includes Retrieval Augmented Generation (RAG) chatbots and applied research into responsible AI development, and learning a lot about AI and software development in production.
 
 Before this and while finishing up my PhD, I worked at [Populytics](https://populytics.nl/), a spin-off from Delft University of Technology that provides analyses of citizens' opinions about policy dilemmas. 🗣📢 My argument mining work on this data featured in reports for local and national governments.
 
-I hope to continue doing interesting research with societal impact, where my interests are (but are not limited to): \
+My interests include: \
 **-online information, argumentation, and debate**; \
 **-societally responsible AI**; \
 **-meta-science: scientific norms and methodology within and outside NLP**; \
