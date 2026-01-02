@@ -9,14 +9,14 @@ redirect_from:
 ---
 Hello world! ⚡ I am Myrthe Reuver, a researcher specializing in computational argumentation, responsible use of AI, and interdisciplinary research - mostly in the connection between NLP and the social and political sciences. 🧩 I also enjoy presenting research outcomes to different audiences - whether in talks, papers, or reports. 👩🏻‍🏫
 
-I defended my [dissertation](https://research.vu.nl/ws/portalfiles/portal/422855180/182550reuverprintversiez%20-%20687e2c1a1441d.pdf) titled 🧩 "A Puzzle of Perspectives: Interdisciplinary Language Technology for Responsible News Recommendation" at the Vrije Universiteit Amsterdam in September 2025. My research connects computational argumentation with AI, social science, real-world problems. The main focus was polarization in online news and debate. See this [video](https://www.youtube.com/watch?v=izR19B1T-fA) of my defense starting with a short talk. 
+I defended my [dissertation](https://research.vu.nl/ws/portalfiles/portal/422855180/182550reuverprintversiez%20-%20687e2c1a1441d.pdf) titled 🧩 "A Puzzle of Perspectives: Interdisciplinary Language Technology for Responsible News Recommendation" at the Vrije Universiteit Amsterdam in September 2025. My research connects computational argumentation with AI, social science, real-world problems. The main focus was polarization in online news and debate. See this [video](https://youtu.be/izR19B1T-fA?si=bjbUfmQM-P2TfJgt&t=270) of my defense, starting with a 8-minute talk about my dissertation. 
 
 During my PhD, I...
 - 📝 published and presented 6 research papers on argument mining, responsible AI, and NLP in recommender systems at world-leading conferences and workshops (COLING, NAACL, Argument Mining), and co-authored 5 others as collaborator.
-- in a multidisciplinary team, won first place 🥇 at a hackathon on diversity in recommender systems + with fellow VU PhDs won first place 🥇 at the 2023 Argument Mining shared task on argument quality prediction.
+- with fellow PhDs, won first place 🥇 at a hackathon on diversity in recommender systems and 🥇 at the 2023 Argument Mining shared task on Argument Quality Prediction.
 - 💰 obtained grants, including a Visiting Junior Researcher grant for a fully funded visit at the Data Science Methods group at GESIS Leibniz Institute for the Social Sciences. This led to a paper on sexism detection in Findings of NAACL.
 - 👩‍💻 succesfully completed an internship in the "Content & Creator AI Linguist" team at LinkedIn in Dublin, Ireland in the summer of 2023.
-- 💬 given invited talks about my research at several international research labs and institutes, including MilaNLP Lab @ Bocconi University, FBK in Trento, and IMS at Stuttgart University.
+- 💬 given invited talks about my research at several international institutes, including MilaNLP Lab @ Bocconi University, FBK in Trento, and IMS at Stuttgart University.
 - Interested in more details? You can download my full academic CV [here](/CV_now.pdf). 
 
 Currently, I am working as an AI developer at [Stedin](https://www.stedin.net/), an energy grid provider in the Netherlands, where I apply (generative) AI solutions that help the green energy transition. This includes Retrieval Augmented Generation (RAG) chatbots and applied research into responsible AI development, and learning a lot about AI and software development in production.
